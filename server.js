@@ -128,3 +128,13 @@ app.listen(PORT, () => {
     // eslint-disable-next-line
     console.log(`Magic happens on port ${PORT}`);
 });
+/**
+ Curl Command
+curl --location --request POST 'https://env-4884883.jh-beon.cloud/api/auth' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+  "email": "fendi@mail.com",
+  "password": "fendi"
+}'
+ * 
+ */
