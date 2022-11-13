@@ -74,6 +74,8 @@ app.post('/api/auth', (req, res) => {
                     "email": user.email,
                     "firstname": user.firstname,
                     "lastname": user.lastname,
+                    "no_kk": user.no_kk,
+                    "no_nik": user.no_nik,                    
                     "age": user.age,
                     "kab": user.kab,
                     "kec": user.kec,
