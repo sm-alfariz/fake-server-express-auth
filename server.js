@@ -45,6 +45,8 @@ let users = [
       "password": "fendi",
       "firstname": "efendi",
       "lastname": "hariyadi",
+      "no_kk": "6402130506120001",
+      "no_nik": "6402130806830009",
       "age": 99,
       "kab": "Kutai Kartanegara",
       "kec": "Samboja",
