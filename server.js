@@ -29,14 +29,13 @@ app.use(bodyParser.urlencoded({ extended: true }));
 const payload = {
     desk: "fake only",
 };
-// INstantiating the express-jwt middleware
 const exp_jwt = expjwt({
     secret: 'keyboard cat 4 ever',
     algorithms: ["HS256"]
 });
 
 
-// MOCKING DB just for test
+// FAKE DB just for test
 let users = [
     {
       "id": 1,
@@ -107,6 +106,21 @@ app.get('/survei/:survei_id', exp_jwt, (req, res) => {
   res.send(result[0])
   
 });
+
+app.get('/kabupaten', exp_jwt, (req, res) => {
+    const kab = readFileSync('./kabupaten.json');
+    res.send(JSON.parse(kab));
+})
+
+app.get('/kecamatan', exp_jwt, (req, res) => {
+    const kec = readFileSync('./kecamatan.json');
+    res.send(JSON.parse(kec));
+})
+
+app.get('/kelurahan', exp_jwt, (req, res) => {
+    const kel = readFileSync('./kelurahan.json');
+    res.send(JSON.parse(kel));
+})
 
 app.get('/', exp_jwt /* Using the express jwt MW here */, (req, res) => {
     res.send({"messages":'You are authenticated'}); //Sending some response when authenticated

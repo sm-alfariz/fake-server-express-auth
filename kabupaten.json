@@ -1,0 +1,54 @@
+{
+  "kabupaten": [
+      {
+          "id": 6401,
+          "nama_kabupaten": "KABUPATEN PASER",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6402,
+          "nama_kabupaten": "KABUPATEN KUTAI BARAT",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6403,
+          "nama_kabupaten": "KABUPATEN KUTAI KARTANEGARA",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6404,
+          "nama_kabupaten": "KABUPATEN KUTAI TIMUR",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6405,
+          "nama_kabupaten": "KABUPATEN BERAU",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6409,
+          "nama_kabupaten": "KABUPATEN PENAJAM PASER UTARA",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6411,
+          "nama_kabupaten": "KABUPATEN MAHAKAM HULU",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6471,
+          "nama_kabupaten": "KOTA BALIKPAPAN",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6472,
+          "nama_kabupaten": "KOTA SAMARINDA",
+          "provinsi_id": "64"
+      },
+      {
+          "id": 6474,
+          "nama_kabupaten": "KOTA BONTANG",
+          "provinsi_id": "64"
+      }
+  ]
+}

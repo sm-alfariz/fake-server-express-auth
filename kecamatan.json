@@ -1,0 +1,519 @@
+{
+  "kecamatan": [
+      {
+          "id": 6401010,
+          "nama_kecamatan": "BATU SOPANG",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401011,
+          "nama_kecamatan": "MUARA SAMU",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401021,
+          "nama_kecamatan": "BATU ENGAU",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401022,
+          "nama_kecamatan": "TANJUNG HARAPAN",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401030,
+          "nama_kecamatan": "PASIR BELENGKONG",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401040,
+          "nama_kecamatan": "TANAH GROGOT",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401050,
+          "nama_kecamatan": "KUARO",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401060,
+          "nama_kecamatan": "LONG IKIS",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401070,
+          "nama_kecamatan": "MUARA KOMAM",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6401080,
+          "nama_kecamatan": "LONG KALI",
+          "kabupaten_id": "6401"
+      },
+      {
+          "id": 6402010,
+          "nama_kecamatan": "BONGAN",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402020,
+          "nama_kecamatan": "JEMPANG",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402030,
+          "nama_kecamatan": "PENYINGGAHAN",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402040,
+          "nama_kecamatan": "MUARA PAHU",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402041,
+          "nama_kecamatan": "SILUQ NGURAI",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402050,
+          "nama_kecamatan": "MUARA LAWA",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402051,
+          "nama_kecamatan": "BENTIAN BESAR",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402060,
+          "nama_kecamatan": "DAMAI",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402061,
+          "nama_kecamatan": "NYUATAN",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402070,
+          "nama_kecamatan": "BARONG TONGKOK",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402071,
+          "nama_kecamatan": "LINGGANG BIGUNG",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402080,
+          "nama_kecamatan": "MELAK",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402081,
+          "nama_kecamatan": "SEKOLAQ DARAT",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402082,
+          "nama_kecamatan": "MANOR BULATN",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402090,
+          "nama_kecamatan": "LONG IRAM",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6402091,
+          "nama_kecamatan": "TERING",
+          "kabupaten_id": "6402"
+      },
+      {
+          "id": 6403010,
+          "nama_kecamatan": "SEMBOJA",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403020,
+          "nama_kecamatan": "MUARA JAWA",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403030,
+          "nama_kecamatan": "SANGA-SANGA",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403040,
+          "nama_kecamatan": "LOA JANAN",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403050,
+          "nama_kecamatan": "LOA KULU",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403060,
+          "nama_kecamatan": "MUARA MUNTAI",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403070,
+          "nama_kecamatan": "MUARA WIS",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403080,
+          "nama_kecamatan": "KOTABANGUN",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403090,
+          "nama_kecamatan": "TENGGARONG",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403100,
+          "nama_kecamatan": "SEBULU",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403110,
+          "nama_kecamatan": "TENGGARONG SEBERANG",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403120,
+          "nama_kecamatan": "ANGGANA",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403130,
+          "nama_kecamatan": "MUARA BADAK",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403140,
+          "nama_kecamatan": "MARANG KAYU",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403150,
+          "nama_kecamatan": "MUARA KAMAN",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403160,
+          "nama_kecamatan": "KENOHAN",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403170,
+          "nama_kecamatan": "KEMBANG JANGGUT",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6403180,
+          "nama_kecamatan": "TABANG",
+          "kabupaten_id": "6403"
+      },
+      {
+          "id": 6404010,
+          "nama_kecamatan": "MUARA ANCALONG",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404011,
+          "nama_kecamatan": "BUSANG",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404012,
+          "nama_kecamatan": "LONG MESANGAT",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404020,
+          "nama_kecamatan": "MUARA WAHAU",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404021,
+          "nama_kecamatan": "TELEN",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404022,
+          "nama_kecamatan": "KOMBENG",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404030,
+          "nama_kecamatan": "MUARA BENGKAL",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404031,
+          "nama_kecamatan": "BATU AMPAR",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404040,
+          "nama_kecamatan": "SANGATTA UTARA",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404041,
+          "nama_kecamatan": "BENGALON",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404042,
+          "nama_kecamatan": "TELUK PANDAN",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404043,
+          "nama_kecamatan": "SANGATTA SELATAN",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404044,
+          "nama_kecamatan": "RANTAU PULUNG",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404050,
+          "nama_kecamatan": "SANGKULIRANG",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404051,
+          "nama_kecamatan": "KALIORANG",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404052,
+          "nama_kecamatan": "SANDARAN",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404053,
+          "nama_kecamatan": "KAUBUN",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6404054,
+          "nama_kecamatan": "KARANGAN",
+          "kabupaten_id": "6404"
+      },
+      {
+          "id": 6405010,
+          "nama_kecamatan": "KELAY",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405020,
+          "nama_kecamatan": "TALISAYAN",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405021,
+          "nama_kecamatan": "TABALAR",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405030,
+          "nama_kecamatan": "BIDUK BIDUK",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405040,
+          "nama_kecamatan": "PULAU DERAWAN",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405041,
+          "nama_kecamatan": "MARATUA",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405050,
+          "nama_kecamatan": "SAMBALIUNG",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405060,
+          "nama_kecamatan": "TANJUNG REDEB",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405070,
+          "nama_kecamatan": "GUNUNG TABUR",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405080,
+          "nama_kecamatan": "SEGAH",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405090,
+          "nama_kecamatan": "TELUK BAYUR",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405100,
+          "nama_kecamatan": "BATU PUTIH",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6405110,
+          "nama_kecamatan": "BIATAN",
+          "kabupaten_id": "6405"
+      },
+      {
+          "id": 6409010,
+          "nama_kecamatan": "BABULU",
+          "kabupaten_id": "6409"
+      },
+      {
+          "id": 6409020,
+          "nama_kecamatan": "WARU",
+          "kabupaten_id": "6409"
+      },
+      {
+          "id": 6409030,
+          "nama_kecamatan": "PENAJAM",
+          "kabupaten_id": "6409"
+      },
+      {
+          "id": 6409040,
+          "nama_kecamatan": "SEPAKU",
+          "kabupaten_id": "6409"
+      },
+      {
+          "id": 6411010,
+          "nama_kecamatan": "LAHAM",
+          "kabupaten_id": "6411"
+      },
+      {
+          "id": 6411020,
+          "nama_kecamatan": "LONG HUBUNG",
+          "kabupaten_id": "6411"
+      },
+      {
+          "id": 6411030,
+          "nama_kecamatan": "LONG BAGUN",
+          "kabupaten_id": "6411"
+      },
+      {
+          "id": 6411040,
+          "nama_kecamatan": "LONG PAHANGAI",
+          "kabupaten_id": "6411"
+      },
+      {
+          "id": 6411050,
+          "nama_kecamatan": "LONG APARI",
+          "kabupaten_id": "6411"
+      },
+      {
+          "id": 6471010,
+          "nama_kecamatan": "BALIKPAPAN SELATAN",
+          "kabupaten_id": "6471"
+      },
+      {
+          "id": 6471011,
+          "nama_kecamatan": "BALIKPAPAN KOTA",
+          "kabupaten_id": "6471"
+      },
+      {
+          "id": 6471020,
+          "nama_kecamatan": "BALIKPAPAN TIMUR",
+          "kabupaten_id": "6471"
+      },
+      {
+          "id": 6471030,
+          "nama_kecamatan": "BALIKPAPAN UTARA",
+          "kabupaten_id": "6471"
+      },
+      {
+          "id": 6471040,
+          "nama_kecamatan": "BALIKPAPAN TENGAH",
+          "kabupaten_id": "6471"
+      },
+      {
+          "id": 6471050,
+          "nama_kecamatan": "BALIKPAPAN BARAT",
+          "kabupaten_id": "6471"
+      },
+      {
+          "id": 6472010,
+          "nama_kecamatan": "PALARAN",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472020,
+          "nama_kecamatan": "SAMARINDA ILIR",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472021,
+          "nama_kecamatan": "SAMARINDA KOTA",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472022,
+          "nama_kecamatan": "SAMBUTAN",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472030,
+          "nama_kecamatan": "SAMARINDA SEBERANG",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472031,
+          "nama_kecamatan": "LOA JANAN ILIR",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472040,
+          "nama_kecamatan": "SUNGAI KUNJANG",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472050,
+          "nama_kecamatan": "SAMARINDA ULU",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472060,
+          "nama_kecamatan": "SAMARINDA UTARA",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6472061,
+          "nama_kecamatan": "SUNGAI PINANG",
+          "kabupaten_id": "6472"
+      },
+      {
+          "id": 6474010,
+          "nama_kecamatan": "BONTANG SELATAN",
+          "kabupaten_id": "6474"
+      },
+      {
+          "id": 6474020,
+          "nama_kecamatan": "BONTANG UTARA",
+          "kabupaten_id": "6474"
+      },
+      {
+          "id": 6474030,
+          "nama_kecamatan": "BONTANG BARAT",
+          "kabupaten_id": "6474"
+      }
+  ]
+}

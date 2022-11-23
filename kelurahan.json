@@ -1,0 +1,5194 @@
+{
+    "kelurahan": [
+        {
+            "id": 6401010009,
+            "nama_kelurahan": "SAMURANGAU",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010010,
+            "nama_kelurahan": "BUSUI",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010011,
+            "nama_kelurahan": "BATU KAJANG",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010012,
+            "nama_kelurahan": "LEGAI",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010013,
+            "nama_kelurahan": "SUNGAI TERIK",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010014,
+            "nama_kelurahan": "KASUNGAI",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010015,
+            "nama_kelurahan": "RANTAU BUTA",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010016,
+            "nama_kelurahan": "RANTAU LAYUNG",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401010017,
+            "nama_kelurahan": "SONGKA",
+            "kecamatan_id": "6401010"
+        },
+        {
+            "id": 6401011001,
+            "nama_kelurahan": "TANJUNG PINANG",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011002,
+            "nama_kelurahan": "RANTAU ATAS",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011003,
+            "nama_kelurahan": "LIBUR DINDING",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011004,
+            "nama_kelurahan": "LUAN/DILIBINTI",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011005,
+            "nama_kelurahan": "SUWETO",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011006,
+            "nama_kelurahan": "MUSER",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011007,
+            "nama_kelurahan": "BIU",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011008,
+            "nama_kelurahan": "RANTAU BINTUNGAN",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401011009,
+            "nama_kelurahan": "MUARA ANDEH",
+            "kecamatan_id": "6401011"
+        },
+        {
+            "id": 6401021001,
+            "nama_kelurahan": "KERANG",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021002,
+            "nama_kelurahan": "TEMPAKAN",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021003,
+            "nama_kelurahan": "MENGKUDU",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021004,
+            "nama_kelurahan": "LOMU",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021005,
+            "nama_kelurahan": "SEGENDANG",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021006,
+            "nama_kelurahan": "RIWANG",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021007,
+            "nama_kelurahan": "LANGGAI",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021008,
+            "nama_kelurahan": "PETANGIS",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021009,
+            "nama_kelurahan": "KERANG DAYO",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021010,
+            "nama_kelurahan": "SAING PRUPUK",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021011,
+            "nama_kelurahan": "BAI JAYA",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021012,
+            "nama_kelurahan": "PENGGUREN JAYA",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401021013,
+            "nama_kelurahan": "TEBRU PASER DAMAI",
+            "kecamatan_id": "6401021"
+        },
+        {
+            "id": 6401022001,
+            "nama_kelurahan": "TUNES KELADEN",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401022002,
+            "nama_kelurahan": "TANJUNG ARU",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401022003,
+            "nama_kelurahan": "LABUANGKALO",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401022004,
+            "nama_kelurahan": "SELENGOT",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401022005,
+            "nama_kelurahan": "LORI",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401022006,
+            "nama_kelurahan": "RANDOM",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401022007,
+            "nama_kelurahan": "SENIPAH",
+            "kecamatan_id": "6401022"
+        },
+        {
+            "id": 6401030001,
+            "nama_kelurahan": "LEMPESU",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030002,
+            "nama_kelurahan": "BEKOSO",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030003,
+            "nama_kelurahan": "DAMIT",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030004,
+            "nama_kelurahan": "SANGKURIMAN",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030005,
+            "nama_kelurahan": "SUATANG",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030006,
+            "nama_kelurahan": "KERESIK BURA",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030007,
+            "nama_kelurahan": "PASIR BELENGKONG",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030008,
+            "nama_kelurahan": "SENIUNG JAYA",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030009,
+            "nama_kelurahan": "SULILIRAN BARU",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030010,
+            "nama_kelurahan": "SULILIRAN",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030011,
+            "nama_kelurahan": "LABURAN BARU",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030012,
+            "nama_kelurahan": "LABURAN",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030013,
+            "nama_kelurahan": "OLONG PINANG",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030014,
+            "nama_kelurahan": "SUNGE BATU",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401030015,
+            "nama_kelurahan": "SUATANG KETEBAN",
+            "kecamatan_id": "6401030"
+        },
+        {
+            "id": 6401040001,
+            "nama_kelurahan": "JANJU",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040002,
+            "nama_kelurahan": "SEMPULANG",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040003,
+            "nama_kelurahan": "TEPIAN BATANG",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040004,
+            "nama_kelurahan": "TANAH GROGOT",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040005,
+            "nama_kelurahan": "TANAH PERIUK",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040006,
+            "nama_kelurahan": "PEPARA",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040007,
+            "nama_kelurahan": "SUNGAI TUAK",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040008,
+            "nama_kelurahan": "RANTAU PANJANG",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040009,
+            "nama_kelurahan": "JONE",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040010,
+            "nama_kelurahan": "PADANG PENGRAPAT",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040011,
+            "nama_kelurahan": "MUARA PASIR",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040012,
+            "nama_kelurahan": "PREPAT",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040013,
+            "nama_kelurahan": "PULAU RANTAU",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040014,
+            "nama_kelurahan": "SUNGAI LANGIR",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040015,
+            "nama_kelurahan": "TAPIS",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401040016,
+            "nama_kelurahan": "SENAKEN",
+            "kecamatan_id": "6401040"
+        },
+        {
+            "id": 6401050001,
+            "nama_kelurahan": "LOLO",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050002,
+            "nama_kelurahan": "KUARO",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050003,
+            "nama_kelurahan": "PONDONG BARU",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050004,
+            "nama_kelurahan": "RANGAN",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050005,
+            "nama_kelurahan": "MODANG",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050006,
+            "nama_kelurahan": "PASIR MAYANG",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050007,
+            "nama_kelurahan": "SANDELEY",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050008,
+            "nama_kelurahan": "KERTA BUMI",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050009,
+            "nama_kelurahan": "PADANG JAYA",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050010,
+            "nama_kelurahan": "HARAPAN BARU",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050011,
+            "nama_kelurahan": "KENDAROM",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050012,
+            "nama_kelurahan": "KLEMPANG SARI",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401050013,
+            "nama_kelurahan": "KELUANG PASER JAYA",
+            "kecamatan_id": "6401050"
+        },
+        {
+            "id": 6401060001,
+            "nama_kelurahan": "SAMUNTAI",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060002,
+            "nama_kelurahan": "LOMBOK",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060003,
+            "nama_kelurahan": "SAWIT JAYA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060004,
+            "nama_kelurahan": "PAIT",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060005,
+            "nama_kelurahan": "TAJUR",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060006,
+            "nama_kelurahan": "MUARA ADANG",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060007,
+            "nama_kelurahan": "TELUK WARU",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060008,
+            "nama_kelurahan": "BUKIT SELOKA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060009,
+            "nama_kelurahan": "KRAYAN MAKMUR",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060010,
+            "nama_kelurahan": "KRAYAN SENTOSA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060011,
+            "nama_kelurahan": "KRAYAN JAYA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060012,
+            "nama_kelurahan": "JEMPARING",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060013,
+            "nama_kelurahan": "KAYUNGO",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060014,
+            "nama_kelurahan": "KRAYAN BAHAGIA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060015,
+            "nama_kelurahan": "LONG IKIS",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060016,
+            "nama_kelurahan": "OLUNG",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060017,
+            "nama_kelurahan": "KAYUNGO SARI",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060018,
+            "nama_kelurahan": "KERTA BHAKTI",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060019,
+            "nama_kelurahan": "SEKUROU JAYA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060020,
+            "nama_kelurahan": "LONG GELANG",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060021,
+            "nama_kelurahan": "TIWEI",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060022,
+            "nama_kelurahan": "BELIMBING",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060023,
+            "nama_kelurahan": "ADANG JAYA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060024,
+            "nama_kelurahan": "TAJER MULYA",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060025,
+            "nama_kelurahan": "BREWE",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401060026,
+            "nama_kelurahan": "ATANG PAIT",
+            "kecamatan_id": "6401060"
+        },
+        {
+            "id": 6401070001,
+            "nama_kelurahan": "MUARA LANGON",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070002,
+            "nama_kelurahan": "MUARA KOMAM",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070003,
+            "nama_kelurahan": "BATU BUTOK",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070004,
+            "nama_kelurahan": "UKO",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070005,
+            "nama_kelurahan": "MUARA KUARO",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070006,
+            "nama_kelurahan": "PRAYON",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070007,
+            "nama_kelurahan": "BINANGON",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070008,
+            "nama_kelurahan": "LUSAN",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070009,
+            "nama_kelurahan": "MUARA PAYANG",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070010,
+            "nama_kelurahan": "LONG SAYO",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070011,
+            "nama_kelurahan": "SWAN SLUTUNG",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070012,
+            "nama_kelurahan": "SEKUAN MAKMUR",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401070013,
+            "nama_kelurahan": "SELERONG",
+            "kecamatan_id": "6401070"
+        },
+        {
+            "id": 6401080001,
+            "nama_kelurahan": "MUARA TELAKE",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080002,
+            "nama_kelurahan": "SEBAKUNG",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080003,
+            "nama_kelurahan": "SEBAKUNG TAKA",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080004,
+            "nama_kelurahan": "SEBAKUNG MAKMUR",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080005,
+            "nama_kelurahan": "MUARA ADANG II",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080006,
+            "nama_kelurahan": "LONG KALI",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080007,
+            "nama_kelurahan": "BENTE/TUALAN",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080008,
+            "nama_kelurahan": "MENDIK",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080009,
+            "nama_kelurahan": "MENDIK MAKMUR",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080010,
+            "nama_kelurahan": "MENDIK BHAKTI",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080011,
+            "nama_kelurahan": "MENDIK KARYA",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080012,
+            "nama_kelurahan": "MUNGGU",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080013,
+            "nama_kelurahan": "MUARA PIAS",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080014,
+            "nama_kelurahan": "MUARA TOYU",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080015,
+            "nama_kelurahan": "PERKUWIN",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080016,
+            "nama_kelurahan": "PINANG JATUS",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080017,
+            "nama_kelurahan": "MUARA LAMBAKAN",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080018,
+            "nama_kelurahan": "KEPALA TELAKE",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080019,
+            "nama_kelurahan": "MARUAT",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080020,
+            "nama_kelurahan": "PETIKU",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080021,
+            "nama_kelurahan": "MAKMUR JAYA",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080022,
+            "nama_kelurahan": "PUTANG",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6401080023,
+            "nama_kelurahan": "GUNUNG PUTAR",
+            "kecamatan_id": "6401080"
+        },
+        {
+            "id": 6402010001,
+            "nama_kelurahan": "GERUNGGUNG",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010002,
+            "nama_kelurahan": "TANJUNG SOKE",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010003,
+            "nama_kelurahan": "PERENG TALIK",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010004,
+            "nama_kelurahan": "DERAYA",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010005,
+            "nama_kelurahan": "LEMPER",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010006,
+            "nama_kelurahan": "MUARA SIRAM",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010007,
+            "nama_kelurahan": "SIRAM MAKMUR",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010008,
+            "nama_kelurahan": "SIRAM JAYA",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010009,
+            "nama_kelurahan": "RESAK",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010010,
+            "nama_kelurahan": "TANJUNG SARI",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010011,
+            "nama_kelurahan": "JAMBUK MAKMUR",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010012,
+            "nama_kelurahan": "BUKIT HARAPAN",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010013,
+            "nama_kelurahan": "JAMBUK",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010014,
+            "nama_kelurahan": "MUARA GUSIK",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010015,
+            "nama_kelurahan": "PENAWAI",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402010016,
+            "nama_kelurahan": "MUARA KEDANG",
+            "kecamatan_id": "6402010"
+        },
+        {
+            "id": 6402020001,
+            "nama_kelurahan": "PENTAT",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020002,
+            "nama_kelurahan": "BEKOKONG MAKMUR",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020003,
+            "nama_kelurahan": "PULAI LANTING",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020004,
+            "nama_kelurahan": "TANJUNG JAN",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020005,
+            "nama_kelurahan": "TANJUNG ISUY",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020006,
+            "nama_kelurahan": "MUARA NAYAN",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020007,
+            "nama_kelurahan": "LEMBONAH",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020008,
+            "nama_kelurahan": "MANCONG",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020009,
+            "nama_kelurahan": "PERIGIQ",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020010,
+            "nama_kelurahan": "TANJUNG JONE",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020011,
+            "nama_kelurahan": "MUARA OHONG",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402020012,
+            "nama_kelurahan": "MUARA TAE",
+            "kecamatan_id": "6402020"
+        },
+        {
+            "id": 6402030001,
+            "nama_kelurahan": "LOA DERAS",
+            "kecamatan_id": "6402030"
+        },
+        {
+            "id": 6402030002,
+            "nama_kelurahan": "MINTA",
+            "kecamatan_id": "6402030"
+        },
+        {
+            "id": 6402030003,
+            "nama_kelurahan": "PENYINGGAHAN ILIR",
+            "kecamatan_id": "6402030"
+        },
+        {
+            "id": 6402030004,
+            "nama_kelurahan": "TANJUNG HAUR",
+            "kecamatan_id": "6402030"
+        },
+        {
+            "id": 6402030005,
+            "nama_kelurahan": "PENYINGGAHAN ULU",
+            "kecamatan_id": "6402030"
+        },
+        {
+            "id": 6402030006,
+            "nama_kelurahan": "BAKUNG",
+            "kecamatan_id": "6402030"
+        },
+        {
+            "id": 6402040016,
+            "nama_kelurahan": "DASAQ",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040017,
+            "nama_kelurahan": "JERANG DAYAK",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040018,
+            "nama_kelurahan": "MENDUNG",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040019,
+            "nama_kelurahan": "JERANG MELAYU",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040020,
+            "nama_kelurahan": "TANJUNG LAONG",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040021,
+            "nama_kelurahan": "TELUK TEMPUDAU",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040022,
+            "nama_kelurahan": "MUARA BAROH",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040023,
+            "nama_kelurahan": "SEBELANG",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040024,
+            "nama_kelurahan": "TEPIAN ULAQ",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040025,
+            "nama_kelurahan": "TANJUNG PAGAR",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040029,
+            "nama_kelurahan": "GUNUNG BAYAN",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402040030,
+            "nama_kelurahan": "MUARA BELOAN",
+            "kecamatan_id": "6402040"
+        },
+        {
+            "id": 6402041001,
+            "nama_kelurahan": "LENDIAN LIANG NAYUK",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041002,
+            "nama_kelurahan": "KENDISIQ",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041003,
+            "nama_kelurahan": "PENAWANG",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041004,
+            "nama_kelurahan": "RIKONG",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041005,
+            "nama_kelurahan": "KIAQ",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041006,
+            "nama_kelurahan": "TENDIQ",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041007,
+            "nama_kelurahan": "KENYANYAN",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041008,
+            "nama_kelurahan": "BETUNG",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041009,
+            "nama_kelurahan": "BENTAS",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041010,
+            "nama_kelurahan": "MUARA KELAWIT",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041011,
+            "nama_kelurahan": "MUHUR",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041012,
+            "nama_kelurahan": "SANSANG",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041013,
+            "nama_kelurahan": "KALIQ",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041014,
+            "nama_kelurahan": "TANA MEA",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041015,
+            "nama_kelurahan": "TEBISAQ",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402041016,
+            "nama_kelurahan": "MUARA PONAQ",
+            "kecamatan_id": "6402041"
+        },
+        {
+            "id": 6402050010,
+            "nama_kelurahan": "MUARA BEGAI",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050011,
+            "nama_kelurahan": "LOTAQ",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050012,
+            "nama_kelurahan": "PAYANG",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050013,
+            "nama_kelurahan": "CEMPEDAS",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050014,
+            "nama_kelurahan": "DINGIN",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050015,
+            "nama_kelurahan": "MUARA LAWA",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050016,
+            "nama_kelurahan": "LAMBING",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402050017,
+            "nama_kelurahan": "BENGGERIS",
+            "kecamatan_id": "6402050"
+        },
+        {
+            "id": 6402051001,
+            "nama_kelurahan": "TUKUQ",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051002,
+            "nama_kelurahan": "RANDA EMPAS",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051003,
+            "nama_kelurahan": "TENDE",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051004,
+            "nama_kelurahan": "SAMBUNG",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051005,
+            "nama_kelurahan": "JELMU SIBAK",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051006,
+            "nama_kelurahan": "ANAN JAYA",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051007,
+            "nama_kelurahan": "SUAKONG",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051008,
+            "nama_kelurahan": "DILANG PUTI",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402051009,
+            "nama_kelurahan": "PENARUNG",
+            "kecamatan_id": "6402051"
+        },
+        {
+            "id": 6402060001,
+            "nama_kelurahan": "BESIK",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060002,
+            "nama_kelurahan": "BERMAI",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060003,
+            "nama_kelurahan": "MUARA NILIK",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060004,
+            "nama_kelurahan": "MANTAR",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060005,
+            "nama_kelurahan": "MUARA BOMBOY",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060006,
+            "nama_kelurahan": "DAMAI SEBERANG",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060007,
+            "nama_kelurahan": "MENDIKA",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060008,
+            "nama_kelurahan": "DAMAI KOTA",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060009,
+            "nama_kelurahan": "LUMPAT DAHUQ",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060010,
+            "nama_kelurahan": "MUARA TOKONG",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060011,
+            "nama_kelurahan": "JENGAN DANUM",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060012,
+            "nama_kelurahan": "KEAY",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060013,
+            "nama_kelurahan": "TEPULANG",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060014,
+            "nama_kelurahan": "BENUNG",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060015,
+            "nama_kelurahan": "MUARA NYAHING",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060016,
+            "nama_kelurahan": "SEMPATN",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402060017,
+            "nama_kelurahan": "KELIAN",
+            "kecamatan_id": "6402060"
+        },
+        {
+            "id": 6402061001,
+            "nama_kelurahan": "DEMPAR",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061002,
+            "nama_kelurahan": "SENTALAR",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061003,
+            "nama_kelurahan": "JONTAI",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061004,
+            "nama_kelurahan": "TEMULA",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061005,
+            "nama_kelurahan": "TERAJUK",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061006,
+            "nama_kelurahan": "SEMBUAN",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061007,
+            "nama_kelurahan": "LAKAN BILEM",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061008,
+            "nama_kelurahan": "INTU LINGAU",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061009,
+            "nama_kelurahan": "MUUT",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402061010,
+            "nama_kelurahan": "AWAI",
+            "kecamatan_id": "6402061"
+        },
+        {
+            "id": 6402070001,
+            "nama_kelurahan": "ENGKUNI PASEK",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070002,
+            "nama_kelurahan": "MENCIMAI",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070003,
+            "nama_kelurahan": "REJO BASUKI",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070004,
+            "nama_kelurahan": "SUMBER SARI",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070005,
+            "nama_kelurahan": "BARONG TONGKOK",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070006,
+            "nama_kelurahan": "PEPAS EHENG",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070008,
+            "nama_kelurahan": "JUHAN ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070009,
+            "nama_kelurahan": "ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070010,
+            "nama_kelurahan": "JUAQ ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070011,
+            "nama_kelurahan": "OMBAU ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070012,
+            "nama_kelurahan": "NGENYAN ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070013,
+            "nama_kelurahan": "GEMUHAN ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070014,
+            "nama_kelurahan": "GELEO BARU",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070015,
+            "nama_kelurahan": "GELEO ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070016,
+            "nama_kelurahan": "ONGKO ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070017,
+            "nama_kelurahan": "PEPAS ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070024,
+            "nama_kelurahan": "MUARA ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070025,
+            "nama_kelurahan": "SENDAWAR",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070026,
+            "nama_kelurahan": "BALOK ASA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070027,
+            "nama_kelurahan": "SIMPANG RAYA",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402070028,
+            "nama_kelurahan": "BELEMPUNG ULAQ",
+            "kecamatan_id": "6402070"
+        },
+        {
+            "id": 6402071001,
+            "nama_kelurahan": "MELAPEH BARU",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071002,
+            "nama_kelurahan": "BIGUNG BARU",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071003,
+            "nama_kelurahan": "PURWODADI",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071004,
+            "nama_kelurahan": "LINGGANG BIGUNG",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071005,
+            "nama_kelurahan": "BANGUN SARI",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071006,
+            "nama_kelurahan": "LINGGANG AMER",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071007,
+            "nama_kelurahan": "LINGGANG MAPAN",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071008,
+            "nama_kelurahan": "LINGGANG MELAPEH",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071009,
+            "nama_kelurahan": "TUTUNG",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071010,
+            "nama_kelurahan": "LINGGANG KEBUT",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402071011,
+            "nama_kelurahan": "LINGGANG MENCELEW",
+            "kecamatan_id": "6402071"
+        },
+        {
+            "id": 6402080001,
+            "nama_kelurahan": "EMPAS",
+            "kecamatan_id": "6402080"
+        },
+        {
+            "id": 6402080002,
+            "nama_kelurahan": "EMPAKUQ",
+            "kecamatan_id": "6402080"
+        },
+        {
+            "id": 6402080003,
+            "nama_kelurahan": "MUARA BUNYUT",
+            "kecamatan_id": "6402080"
+        },
+        {
+            "id": 6402080006,
+            "nama_kelurahan": "MELAK ILIR",
+            "kecamatan_id": "6402080"
+        },
+        {
+            "id": 6402080014,
+            "nama_kelurahan": "MELAK ULU",
+            "kecamatan_id": "6402080"
+        },
+        {
+            "id": 6402080020,
+            "nama_kelurahan": "MUARA BENANGAQ",
+            "kecamatan_id": "6402080"
+        },
+        {
+            "id": 6402081001,
+            "nama_kelurahan": "SUMBER REJO",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081002,
+            "nama_kelurahan": "SEKOLAQ DARAT",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081003,
+            "nama_kelurahan": "SRI MULYO",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081004,
+            "nama_kelurahan": "SEKOLAQ JOLEQ",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081005,
+            "nama_kelurahan": "SUMBER BANGUN",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081006,
+            "nama_kelurahan": "SEKOLAQ ODAY",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081007,
+            "nama_kelurahan": "SEKOLAQ MULIAQ",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402081008,
+            "nama_kelurahan": "LELENG",
+            "kecamatan_id": "6402081"
+        },
+        {
+            "id": 6402082001,
+            "nama_kelurahan": "GADUR",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082002,
+            "nama_kelurahan": "SAKAQ TADA",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082003,
+            "nama_kelurahan": "GEMURUH",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082004,
+            "nama_kelurahan": "SAKAQ LOTOQ",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082005,
+            "nama_kelurahan": "KARANGAN",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082006,
+            "nama_kelurahan": "KELUMPANG",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082007,
+            "nama_kelurahan": "MERAYAQ",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082008,
+            "nama_kelurahan": "LINGGANG MARIMUN",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082009,
+            "nama_kelurahan": "MUARA BATUQ",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082010,
+            "nama_kelurahan": "GUNUNG RAMPAH",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082011,
+            "nama_kelurahan": "RAMBAYAN",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082012,
+            "nama_kelurahan": "MUARA JAWAQ",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082013,
+            "nama_kelurahan": "ABIT",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082014,
+            "nama_kelurahan": "JENGAN",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082015,
+            "nama_kelurahan": "MUARA KALAQ",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402082016,
+            "nama_kelurahan": "TONDOH",
+            "kecamatan_id": "6402082"
+        },
+        {
+            "id": 6402090011,
+            "nama_kelurahan": "ANAH",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090013,
+            "nama_kelurahan": "MUARA LEBAN",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090014,
+            "nama_kelurahan": "LONGIRAM SEBERANG",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090015,
+            "nama_kelurahan": "LONG IRAM ILIR",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090016,
+            "nama_kelurahan": "LONG IRAM KOTA",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090017,
+            "nama_kelurahan": "LONG IRAM BAYAN",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090018,
+            "nama_kelurahan": "SUKO MULYO",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090019,
+            "nama_kelurahan": "LONG DALIQ",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090020,
+            "nama_kelurahan": "KELIWAY",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090021,
+            "nama_kelurahan": "UJOH HALANG",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402090022,
+            "nama_kelurahan": "KALIAN LUAR",
+            "kecamatan_id": "6402090"
+        },
+        {
+            "id": 6402091001,
+            "nama_kelurahan": "PURWOREJO",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091002,
+            "nama_kelurahan": "KELUBAQ",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091003,
+            "nama_kelurahan": "TERING SEBERANG",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091004,
+            "nama_kelurahan": "TERING LAMA",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091005,
+            "nama_kelurahan": "TERING BARU",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091006,
+            "nama_kelurahan": "JELEMUQ",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091007,
+            "nama_kelurahan": "MUYUB ULU",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091008,
+            "nama_kelurahan": "TUKUL",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091009,
+            "nama_kelurahan": "MUARA MUJAN",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091010,
+            "nama_kelurahan": "KALIAN DALAM",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091011,
+            "nama_kelurahan": "MUYUP ILIR",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091012,
+            "nama_kelurahan": "MUYUT AKET",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091013,
+            "nama_kelurahan": "GABUNG BARU",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091014,
+            "nama_kelurahan": "BANJAREJO",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6402091015,
+            "nama_kelurahan": "TERING LAMA ULU",
+            "kecamatan_id": "6402091"
+        },
+        {
+            "id": 6403010001,
+            "nama_kelurahan": "SUNGAI MERDEKA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010002,
+            "nama_kelurahan": "SALOK API DARAT",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010003,
+            "nama_kelurahan": "TANI BAKTI",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010004,
+            "nama_kelurahan": "SALOK API LAUT",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010005,
+            "nama_kelurahan": "AMBARAWANG DARAT",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010006,
+            "nama_kelurahan": "ARGOSARI",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010007,
+            "nama_kelurahan": "AMBARAWANG LAUT",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010008,
+            "nama_kelurahan": "MARGOMULYO",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010009,
+            "nama_kelurahan": "KARYA JAYA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010010,
+            "nama_kelurahan": "TANJUNG HARAPAN",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010011,
+            "nama_kelurahan": "WONOTIRTO",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010012,
+            "nama_kelurahan": "SUNGAI SELUANG",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010013,
+            "nama_kelurahan": "BUKIT RAYA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010014,
+            "nama_kelurahan": "BERINGIN AGUNG",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010015,
+            "nama_kelurahan": "SAMBOJA KUALA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010016,
+            "nama_kelurahan": "SANIPAH",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010017,
+            "nama_kelurahan": "HANDIL BARU",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010018,
+            "nama_kelurahan": "MUARA SEMBILANG",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010019,
+            "nama_kelurahan": "BUKIT MERDEKA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010020,
+            "nama_kelurahan": "KARYA MERDEKA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010021,
+            "nama_kelurahan": "TELUK PEMEDAS",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010022,
+            "nama_kelurahan": "KAMPUNG LAMA",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403010023,
+            "nama_kelurahan": "HANDIL BARU DARAT",
+            "kecamatan_id": "6403010"
+        },
+        {
+            "id": 6403020001,
+            "nama_kelurahan": "TELUK DALAM",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020002,
+            "nama_kelurahan": "MUARA JAWA ILIR",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020003,
+            "nama_kelurahan": "MUARA JAWA TENGAH",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020004,
+            "nama_kelurahan": "MUARA JAWA ULU",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020005,
+            "nama_kelurahan": "DONDANG",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020006,
+            "nama_kelurahan": "TAMAPOLE",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020007,
+            "nama_kelurahan": "MUARA KEMBANG",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403020008,
+            "nama_kelurahan": "MUARA JAWA PESISIR",
+            "kecamatan_id": "6403020"
+        },
+        {
+            "id": 6403030001,
+            "nama_kelurahan": "JAWA",
+            "kecamatan_id": "6403030"
+        },
+        {
+            "id": 6403030002,
+            "nama_kelurahan": "SANGA SANGA DALAM",
+            "kecamatan_id": "6403030"
+        },
+        {
+            "id": 6403030003,
+            "nama_kelurahan": "PENDINGIN",
+            "kecamatan_id": "6403030"
+        },
+        {
+            "id": 6403030004,
+            "nama_kelurahan": "SARIJAYA",
+            "kecamatan_id": "6403030"
+        },
+        {
+            "id": 6403030005,
+            "nama_kelurahan": "SANGA SANGA MUARA",
+            "kecamatan_id": "6403030"
+        },
+        {
+            "id": 6403040001,
+            "nama_kelurahan": "BATUAH",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040002,
+            "nama_kelurahan": "TANI BAKTI",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040003,
+            "nama_kelurahan": "PURWAJAYA",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040004,
+            "nama_kelurahan": "LOA JANAN ULU",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040005,
+            "nama_kelurahan": "LOA DURI ULU",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040006,
+            "nama_kelurahan": "BAKUNGAN",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040007,
+            "nama_kelurahan": "LOA DURI ILIR",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403040008,
+            "nama_kelurahan": "TANI HARAPAN",
+            "kecamatan_id": "6403040"
+        },
+        {
+            "id": 6403050001,
+            "nama_kelurahan": "JONGGON",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050002,
+            "nama_kelurahan": "SUNGAI PAYANG",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050003,
+            "nama_kelurahan": "JEMBAYAN",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050004,
+            "nama_kelurahan": "PONORAGAN",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050005,
+            "nama_kelurahan": "LOH SUMBER",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050006,
+            "nama_kelurahan": "LOA KULU KOTA",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050007,
+            "nama_kelurahan": "REMPANGA",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050008,
+            "nama_kelurahan": "KARYA UTAMA",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050009,
+            "nama_kelurahan": "MARGAHAYU",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050010,
+            "nama_kelurahan": "LUNG ANAI",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050011,
+            "nama_kelurahan": "JEMBAYAN TENGAH",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050012,
+            "nama_kelurahan": "JEMBAYAN DALAM",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050013,
+            "nama_kelurahan": "SEPAKAT",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050014,
+            "nama_kelurahan": "JONGKANG",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403050015,
+            "nama_kelurahan": "SUMBER SARI",
+            "kecamatan_id": "6403050"
+        },
+        {
+            "id": 6403060001,
+            "nama_kelurahan": "PERIAN",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060002,
+            "nama_kelurahan": "MUARA LEKA",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060003,
+            "nama_kelurahan": "MUARA ALOH",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060004,
+            "nama_kelurahan": "JANTUR",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060005,
+            "nama_kelurahan": "BATUQ",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060006,
+            "nama_kelurahan": "REBAQ RINDING",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060007,
+            "nama_kelurahan": "MUARA MUNTAI ULU",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060008,
+            "nama_kelurahan": "MUARA MUNTAI ILIR",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060009,
+            "nama_kelurahan": "KAYU BATU",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060010,
+            "nama_kelurahan": "JANTUR SELATAN",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060011,
+            "nama_kelurahan": "TANJUNG BATUQ HARAPAN",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060012,
+            "nama_kelurahan": "PULAU HARAPAN",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403060013,
+            "nama_kelurahan": "JANTUR BARU",
+            "kecamatan_id": "6403060"
+        },
+        {
+            "id": 6403070001,
+            "nama_kelurahan": "LEBAK CILONG",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403070002,
+            "nama_kelurahan": "LEBAK MANTAN",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403070003,
+            "nama_kelurahan": "MUARA WIS",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403070004,
+            "nama_kelurahan": "SEBEMBAN",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403070005,
+            "nama_kelurahan": "MELINTANG",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403070006,
+            "nama_kelurahan": "ENGGELAM",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403070007,
+            "nama_kelurahan": "MUARA ENGGELAM",
+            "kecamatan_id": "6403070"
+        },
+        {
+            "id": 6403080001,
+            "nama_kelurahan": "KOTA BANGUN III",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080002,
+            "nama_kelurahan": "KOTA BANGUN II",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080003,
+            "nama_kelurahan": "KOTA BANGUN I",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080004,
+            "nama_kelurahan": "WONOSARI",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080005,
+            "nama_kelurahan": "KEDANG IPIL",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080006,
+            "nama_kelurahan": "BENUA BARU",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080007,
+            "nama_kelurahan": "SEDULANG",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080008,
+            "nama_kelurahan": "SUKABUMI",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080009,
+            "nama_kelurahan": "SARINADI",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080010,
+            "nama_kelurahan": "SUMBER SARI",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080011,
+            "nama_kelurahan": "KOTA BANGUN ULU",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080012,
+            "nama_kelurahan": "LOLENG",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080013,
+            "nama_kelurahan": "LIANG ILIR",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080014,
+            "nama_kelurahan": "KOTA BANGUN ILIR",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080015,
+            "nama_kelurahan": "PELA",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080016,
+            "nama_kelurahan": "MUHURAN",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080017,
+            "nama_kelurahan": "KOTA BANGUN SEBERANG",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080018,
+            "nama_kelurahan": "KEDANG MURUNG",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080019,
+            "nama_kelurahan": "LIANG ULU",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080020,
+            "nama_kelurahan": "SEBELIMBINGAN",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403080021,
+            "nama_kelurahan": "SANGKULIMAN",
+            "kecamatan_id": "6403080"
+        },
+        {
+            "id": 6403090001,
+            "nama_kelurahan": "JAHAB",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090002,
+            "nama_kelurahan": "BUKIT BIRU",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090003,
+            "nama_kelurahan": "TIMBAU",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090004,
+            "nama_kelurahan": "MELAYU",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090005,
+            "nama_kelurahan": "LOA IPUH",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090006,
+            "nama_kelurahan": "MALUHU",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090007,
+            "nama_kelurahan": "PANJI",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090008,
+            "nama_kelurahan": "SUKARAME",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090009,
+            "nama_kelurahan": "KAMPUNG BARU",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090010,
+            "nama_kelurahan": "MANGKURAWANG",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090011,
+            "nama_kelurahan": "LOA TEBU",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090012,
+            "nama_kelurahan": "RAPAK LAMBUR",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090013,
+            "nama_kelurahan": "LOA IPUH DARAT",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403090014,
+            "nama_kelurahan": "BENDANG RAYA",
+            "kecamatan_id": "6403090"
+        },
+        {
+            "id": 6403100001,
+            "nama_kelurahan": "SELERONG",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100002,
+            "nama_kelurahan": "TANJUNG HARAPAN",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100003,
+            "nama_kelurahan": "BELORO",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100004,
+            "nama_kelurahan": "SEBULU ULU",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100005,
+            "nama_kelurahan": "MANUNGGAL DAYA",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100006,
+            "nama_kelurahan": "SUMBER SARI",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100007,
+            "nama_kelurahan": "SEBULU ILIR",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100008,
+            "nama_kelurahan": "SEGIHAN",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100009,
+            "nama_kelurahan": "GIRI AGUNG",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100010,
+            "nama_kelurahan": "SENONI",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100011,
+            "nama_kelurahan": "SEBULU MODERN",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100012,
+            "nama_kelurahan": "LEKAQ KIDAU",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100013,
+            "nama_kelurahan": "SANGGULAN",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403100014,
+            "nama_kelurahan": "MEKAR JAYA",
+            "kecamatan_id": "6403100"
+        },
+        {
+            "id": 6403110001,
+            "nama_kelurahan": "LOA LEPU",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110002,
+            "nama_kelurahan": "TELUK DALAM",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110003,
+            "nama_kelurahan": "PERJIWA",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110004,
+            "nama_kelurahan": "LOA RAYA",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110005,
+            "nama_kelurahan": "LOA ULUNG",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110006,
+            "nama_kelurahan": "EMBALUT",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110007,
+            "nama_kelurahan": "BUKIT RAYA",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110008,
+            "nama_kelurahan": "MANUNGGAL JAYA",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110009,
+            "nama_kelurahan": "BANGUN REJO",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110010,
+            "nama_kelurahan": "KERTA BUANA",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110011,
+            "nama_kelurahan": "SEPARI",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110012,
+            "nama_kelurahan": "BUKIT PARIAMAN",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110013,
+            "nama_kelurahan": "BUANA JAYA",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110014,
+            "nama_kelurahan": "MULAWARMAN",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110015,
+            "nama_kelurahan": "LOA PARI",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110016,
+            "nama_kelurahan": "SUKAMAJU",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110017,
+            "nama_kelurahan": "TANJUNG BATU",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403110018,
+            "nama_kelurahan": "KARANG TUNGGAL",
+            "kecamatan_id": "6403110"
+        },
+        {
+            "id": 6403120001,
+            "nama_kelurahan": "SEPATIN",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120002,
+            "nama_kelurahan": "MUARA PANTUAN",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120003,
+            "nama_kelurahan": "TANI BARU",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120004,
+            "nama_kelurahan": "KUTAI LAMA",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120005,
+            "nama_kelurahan": "ANGGANA",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120006,
+            "nama_kelurahan": "SUNGAI MERIAM",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120007,
+            "nama_kelurahan": "SIDOMULYO",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403120008,
+            "nama_kelurahan": "HANDIL TERUSAN",
+            "kecamatan_id": "6403120"
+        },
+        {
+            "id": 6403130001,
+            "nama_kelurahan": "SELIKI",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130002,
+            "nama_kelurahan": "SALO PALAI",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130003,
+            "nama_kelurahan": "MUARA BADAK ULU",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130004,
+            "nama_kelurahan": "MUARA BADAK ILIR",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130005,
+            "nama_kelurahan": "TANJUNG LIMAU",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130006,
+            "nama_kelurahan": "TANAH DATAR",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130007,
+            "nama_kelurahan": "BADAK BARU",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130008,
+            "nama_kelurahan": "SUKA DAMAI",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130009,
+            "nama_kelurahan": "GAS ALAM BADAK SATU",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130010,
+            "nama_kelurahan": "BATU-BATU",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130011,
+            "nama_kelurahan": "BADAK MEKAR",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130012,
+            "nama_kelurahan": "SALO CELLA",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403130013,
+            "nama_kelurahan": "SUNGAI BAWANG",
+            "kecamatan_id": "6403130"
+        },
+        {
+            "id": 6403140001,
+            "nama_kelurahan": "PERANGAT BARU",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140002,
+            "nama_kelurahan": "BUNGA PUTIH",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140003,
+            "nama_kelurahan": "PERANGAT SELATAN",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140004,
+            "nama_kelurahan": "MAKARTI",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140005,
+            "nama_kelurahan": "SEBUNTAL",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140006,
+            "nama_kelurahan": "KERSIK",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140007,
+            "nama_kelurahan": "SANTAN ILIR",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140008,
+            "nama_kelurahan": "SANTAN TENGAH",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140009,
+            "nama_kelurahan": "SANTAN ULU",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140010,
+            "nama_kelurahan": "SAMBERA BARU",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403140011,
+            "nama_kelurahan": "SEMANGKOK",
+            "kecamatan_id": "6403140"
+        },
+        {
+            "id": 6403150001,
+            "nama_kelurahan": "BENUA PUHUN",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150002,
+            "nama_kelurahan": "TERATAK",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150003,
+            "nama_kelurahan": "BUNGA JADI",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150004,
+            "nama_kelurahan": "PANCA JAYA",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150005,
+            "nama_kelurahan": "SIDO MUKTI",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150006,
+            "nama_kelurahan": "SABINTULUNG",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150007,
+            "nama_kelurahan": "RANTAU HEMPANG",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150009,
+            "nama_kelurahan": "MUARA KAMAN ILIR",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150010,
+            "nama_kelurahan": "MUARA KAMAN ULU",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150011,
+            "nama_kelurahan": "TUNJUNGAN",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150012,
+            "nama_kelurahan": "MUARA SIRAN",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150013,
+            "nama_kelurahan": "SEDULANG",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150014,
+            "nama_kelurahan": "MENAMANG KIRI",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150015,
+            "nama_kelurahan": "MENAMANG KANAN",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150016,
+            "nama_kelurahan": "LEBAHO ULAQ",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150017,
+            "nama_kelurahan": "KUPANG BARU",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150018,
+            "nama_kelurahan": "PUAN CEPAK",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150019,
+            "nama_kelurahan": "BUKIT JERING",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150020,
+            "nama_kelurahan": "LIANG BUAYA",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403150021,
+            "nama_kelurahan": "CIPARI MAKMUR",
+            "kecamatan_id": "6403150"
+        },
+        {
+            "id": 6403160001,
+            "nama_kelurahan": "SEMAYANG",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160002,
+            "nama_kelurahan": "TUBUHAN",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160003,
+            "nama_kelurahan": "TELUK MUDA",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160004,
+            "nama_kelurahan": "TUANA TUHA",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160005,
+            "nama_kelurahan": "KAHALA",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160006,
+            "nama_kelurahan": "TELUK BINGKAI",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160007,
+            "nama_kelurahan": "LAMIN PULUT",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160008,
+            "nama_kelurahan": "LAMIN TELIHAN",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403160009,
+            "nama_kelurahan": "KAHALA ILIR",
+            "kecamatan_id": "6403160"
+        },
+        {
+            "id": 6403170001,
+            "nama_kelurahan": "GENTING TANAH",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170002,
+            "nama_kelurahan": "LOA SAKOH",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170003,
+            "nama_kelurahan": "HAMBAU",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170004,
+            "nama_kelurahan": "KEMBANG JANGGUT",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170005,
+            "nama_kelurahan": "KELEKAT",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170006,
+            "nama_kelurahan": "PULAU PINANG",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170007,
+            "nama_kelurahan": "LONG BELEH HALOQ",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170008,
+            "nama_kelurahan": "LONG BELEH MODANG",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170009,
+            "nama_kelurahan": "BUKIT LAYANG",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170010,
+            "nama_kelurahan": "MUAI",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403170011,
+            "nama_kelurahan": "PERDANA",
+            "kecamatan_id": "6403170"
+        },
+        {
+            "id": 6403180001,
+            "nama_kelurahan": "GUNUNG SARI",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180002,
+            "nama_kelurahan": "LONG LALANG",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180003,
+            "nama_kelurahan": "MUARA RITAN",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180004,
+            "nama_kelurahan": "RITAN BARU",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180005,
+            "nama_kelurahan": "BULUK SEN",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180006,
+            "nama_kelurahan": "UMAQ DIAN",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180007,
+            "nama_kelurahan": "MUARA PEDOHON",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180008,
+            "nama_kelurahan": "UMAQ TUKUNG",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180009,
+            "nama_kelurahan": "KAMPUNG BARU",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180010,
+            "nama_kelurahan": "BILA TALANG",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180011,
+            "nama_kelurahan": "UMAQ BEKUAI",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180012,
+            "nama_kelurahan": "SIDOMULYO",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180013,
+            "nama_kelurahan": "MUARA TIQ",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180014,
+            "nama_kelurahan": "TABANG LAMA",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180015,
+            "nama_kelurahan": "MUARA SALUNG",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180016,
+            "nama_kelurahan": "MUARA KEBAQ",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180017,
+            "nama_kelurahan": "MUARA BELINAU",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180018,
+            "nama_kelurahan": "MUARA TUBOQ",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6403180019,
+            "nama_kelurahan": "TUKUNG RITAN",
+            "kecamatan_id": "6403180"
+        },
+        {
+            "id": 6404010001,
+            "nama_kelurahan": "SENYIUR",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010002,
+            "nama_kelurahan": "KELINJAU ILIR",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010003,
+            "nama_kelurahan": "KELINJAU ULU",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010004,
+            "nama_kelurahan": "LONG NAH",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010005,
+            "nama_kelurahan": "GEMAR BARU",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010006,
+            "nama_kelurahan": "LONG TESAK",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010007,
+            "nama_kelurahan": "LONG POQ BARU",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404010008,
+            "nama_kelurahan": "MUARA DUN",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404011001,
+            "nama_kelurahan": "LONG BENTUK",
+            "kecamatan_id": "6404011"
+        },
+        {
+            "id": 6404011002,
+            "nama_kelurahan": "LONG PEJENG",
+            "kecamatan_id": "6404011"
+        },
+        {
+            "id": 6404011003,
+            "nama_kelurahan": "MEKAR BARU",
+            "kecamatan_id": "6404011"
+        },
+        {
+            "id": 6404011004,
+            "nama_kelurahan": "LONG LEES",
+            "kecamatan_id": "6404011"
+        },
+        {
+            "id": 6404011005,
+            "nama_kelurahan": "LONG NYELONG",
+            "kecamatan_id": "6404011"
+        },
+        {
+            "id": 6404011006,
+            "nama_kelurahan": "RANTAU SENTOSA",
+            "kecamatan_id": "6404011"
+        },
+        {
+            "id": 6404012001,
+            "nama_kelurahan": "MUKTI UTAMA",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404012002,
+            "nama_kelurahan": "SUMBER SARI",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404012003,
+            "nama_kelurahan": "SEGOY MAKMUR",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404012004,
+            "nama_kelurahan": "SIKA MAKMUR",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404012005,
+            "nama_kelurahan": "MELAN",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404012006,
+            "nama_kelurahan": "TANAH ABANG",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404012007,
+            "nama_kelurahan": "SUMBER AGUNG",
+            "kecamatan_id": "6404012"
+        },
+        {
+            "id": 6404020001,
+            "nama_kelurahan": "BENHES",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020002,
+            "nama_kelurahan": "DIAQ LAY",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020003,
+            "nama_kelurahan": "DABEQ",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020004,
+            "nama_kelurahan": "JAK LUAY",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020005,
+            "nama_kelurahan": "MUARA WAHAU",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020006,
+            "nama_kelurahan": "NEHESLIAH BING",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020007,
+            "nama_kelurahan": "KARYA BAKTI",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020008,
+            "nama_kelurahan": "WAHAU BARU",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020009,
+            "nama_kelurahan": "WANA SARI",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404020010,
+            "nama_kelurahan": "LONG WEHEA",
+            "kecamatan_id": "6404020"
+        },
+        {
+            "id": 6404021001,
+            "nama_kelurahan": "LONG NORAN",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404021002,
+            "nama_kelurahan": "LONG SEGAR",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404021003,
+            "nama_kelurahan": "JUK AYAK",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404021004,
+            "nama_kelurahan": "MARAH HALOQ",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404021005,
+            "nama_kelurahan": "LUNG MELAH",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404021006,
+            "nama_kelurahan": "MUARA PANTUN",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404021007,
+            "nama_kelurahan": "RANTAU PANJANG",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404022001,
+            "nama_kelurahan": "SIDOMULYO",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404022002,
+            "nama_kelurahan": "SRI PANTUN",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404022003,
+            "nama_kelurahan": "KONGBENG INDAH",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404022004,
+            "nama_kelurahan": "SUKA MAJU",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404022005,
+            "nama_kelurahan": "MARGA MULIA",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404022006,
+            "nama_kelurahan": "MAKMUR JAYA",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404022007,
+            "nama_kelurahan": "MIAU BARU",
+            "kecamatan_id": "6404022"
+        },
+        {
+            "id": 6404030001,
+            "nama_kelurahan": "SENAMBAH",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404030002,
+            "nama_kelurahan": "NGAYAU",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404030003,
+            "nama_kelurahan": "MUARA BENGKAL ILIR",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404030004,
+            "nama_kelurahan": "MUARA BENGKAL ULU",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404030005,
+            "nama_kelurahan": "BENUA BARU",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404030006,
+            "nama_kelurahan": "BATU BALAI",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404030007,
+            "nama_kelurahan": "MULUPAN",
+            "kecamatan_id": "6404030"
+        },
+        {
+            "id": 6404031001,
+            "nama_kelurahan": "BENO HARAPAN",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404031002,
+            "nama_kelurahan": "MUGI RAHAYU",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404031003,
+            "nama_kelurahan": "MAWAI INDAH",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404031004,
+            "nama_kelurahan": "HIMBA LESTARI",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404031005,
+            "nama_kelurahan": "BATU TIMBAU",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404031006,
+            "nama_kelurahan": "TELAGA",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404040012,
+            "nama_kelurahan": "SANGATTA UTARA",
+            "kecamatan_id": "6404040"
+        },
+        {
+            "id": 6404040016,
+            "nama_kelurahan": "TELUK LINGGA",
+            "kecamatan_id": "6404040"
+        },
+        {
+            "id": 6404040017,
+            "nama_kelurahan": "SINGA GEMBARA",
+            "kecamatan_id": "6404040"
+        },
+        {
+            "id": 6404040018,
+            "nama_kelurahan": "SWARGA BARA",
+            "kecamatan_id": "6404040"
+        },
+        {
+            "id": 6404041001,
+            "nama_kelurahan": "SEPASO",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041002,
+            "nama_kelurahan": "TEPIAN LANGSAT",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041003,
+            "nama_kelurahan": "TEBANGAN LEMBAK",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041004,
+            "nama_kelurahan": "KERAITAN",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041005,
+            "nama_kelurahan": "SEKERAT",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041006,
+            "nama_kelurahan": "MUARA BENGALON",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041007,
+            "nama_kelurahan": "SEPASO TIMUR",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041008,
+            "nama_kelurahan": "SEPASO SELATAN",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041009,
+            "nama_kelurahan": "TEPIAN BARU",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041010,
+            "nama_kelurahan": "TEPIAN INDAH",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404041011,
+            "nama_kelurahan": "SEPASO BARAT",
+            "kecamatan_id": "6404041"
+        },
+        {
+            "id": 6404042001,
+            "nama_kelurahan": "TELUK PANDAN",
+            "kecamatan_id": "6404042"
+        },
+        {
+            "id": 6404042002,
+            "nama_kelurahan": "SUKA DAMAI",
+            "kecamatan_id": "6404042"
+        },
+        {
+            "id": 6404042003,
+            "nama_kelurahan": "SUKA RAHMAT",
+            "kecamatan_id": "6404042"
+        },
+        {
+            "id": 6404042004,
+            "nama_kelurahan": "DANAU REDAN",
+            "kecamatan_id": "6404042"
+        },
+        {
+            "id": 6404042005,
+            "nama_kelurahan": "MARTADINATA",
+            "kecamatan_id": "6404042"
+        },
+        {
+            "id": 6404042006,
+            "nama_kelurahan": "KANDOLO",
+            "kecamatan_id": "6404042"
+        },
+        {
+            "id": 6404043001,
+            "nama_kelurahan": "SANGKIMA",
+            "kecamatan_id": "6404043"
+        },
+        {
+            "id": 6404043002,
+            "nama_kelurahan": "SANGATTA SELATAN",
+            "kecamatan_id": "6404043"
+        },
+        {
+            "id": 6404043003,
+            "nama_kelurahan": "SINGA GEWEH",
+            "kecamatan_id": "6404043"
+        },
+        {
+            "id": 6404043004,
+            "nama_kelurahan": "SANGKIMA LAMA",
+            "kecamatan_id": "6404043"
+        },
+        {
+            "id": 6404044001,
+            "nama_kelurahan": "RANTAU MAKMUR",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044002,
+            "nama_kelurahan": "MUKTI JAYA",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044003,
+            "nama_kelurahan": "TANJUNG LABU",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044004,
+            "nama_kelurahan": "KEBON AGUNG",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044005,
+            "nama_kelurahan": "MANUNGGAL JAYA",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044006,
+            "nama_kelurahan": "TEPIAN MAKMUR",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044007,
+            "nama_kelurahan": "PULUNG SARI",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404044008,
+            "nama_kelurahan": "MARGO MULYO",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404050001,
+            "nama_kelurahan": "KERAYAAN",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050002,
+            "nama_kelurahan": "BENUA BARU ILIR",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050003,
+            "nama_kelurahan": "SEMPAYAU",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050004,
+            "nama_kelurahan": "TEPIAN TERAP",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050005,
+            "nama_kelurahan": "PELAWAN",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050006,
+            "nama_kelurahan": "MANDU DALAM",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050007,
+            "nama_kelurahan": "SAKA",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050008,
+            "nama_kelurahan": "PERIDAN",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050009,
+            "nama_kelurahan": "TANJUNG MANIS",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050010,
+            "nama_kelurahan": "MALOY",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050011,
+            "nama_kelurahan": "BENUA BARU ULU",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050012,
+            "nama_kelurahan": "KOLEK",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050013,
+            "nama_kelurahan": "PULAU MIANG",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050014,
+            "nama_kelurahan": "PERUPUK",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404050015,
+            "nama_kelurahan": "MANDU PANTAI SEJAHTERA",
+            "kecamatan_id": "6404050"
+        },
+        {
+            "id": 6404051001,
+            "nama_kelurahan": "KALIORANG",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404051002,
+            "nama_kelurahan": "BUKIT HARAPAN",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404051003,
+            "nama_kelurahan": "BUKIT MAKMUR",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404051004,
+            "nama_kelurahan": "BANGUN JAYA",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404051005,
+            "nama_kelurahan": "CITRA MANUNGGAL JAYA",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404051006,
+            "nama_kelurahan": "BUMI SEJAHTERA",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404051007,
+            "nama_kelurahan": "SELANGKAU",
+            "kecamatan_id": "6404051"
+        },
+        {
+            "id": 6404052001,
+            "nama_kelurahan": "SUSUK LUAR",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052002,
+            "nama_kelurahan": "SUSUK DALAM",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052003,
+            "nama_kelurahan": "MARUKANGAN",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052004,
+            "nama_kelurahan": "MANUBAR",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052005,
+            "nama_kelurahan": "TADOAN",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052006,
+            "nama_kelurahan": "SANDARAN",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052007,
+            "nama_kelurahan": "TANJUNG MANGKALIHAT",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404053001,
+            "nama_kelurahan": "CIPTA GRAHA",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053002,
+            "nama_kelurahan": "BUMI JAYA",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053003,
+            "nama_kelurahan": "BUMI RAPAK",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053004,
+            "nama_kelurahan": "BUMI ETAM",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053005,
+            "nama_kelurahan": "MATA AIR",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053006,
+            "nama_kelurahan": "BUKIT PERMATA",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053007,
+            "nama_kelurahan": "KADUNGAN JAYA",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404053008,
+            "nama_kelurahan": "PENGADAN BARU",
+            "kecamatan_id": "6404053"
+        },
+        {
+            "id": 6404054001,
+            "nama_kelurahan": "PENGADAN",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6404054002,
+            "nama_kelurahan": "BAAY",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6404054003,
+            "nama_kelurahan": "KARANGAN DALAM",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6404054004,
+            "nama_kelurahan": "BATU LEPOQ",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6404054005,
+            "nama_kelurahan": "MUKTI LESTARI",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6404054006,
+            "nama_kelurahan": "KARANGAN HILIR",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6404054007,
+            "nama_kelurahan": "KARANGAN SEBERANG",
+            "kecamatan_id": "6404054"
+        },
+        {
+            "id": 6405010001,
+            "nama_kelurahan": "MERAPUN",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010002,
+            "nama_kelurahan": "MERABU",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010003,
+            "nama_kelurahan": "MAPULU",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010004,
+            "nama_kelurahan": "PANAAN",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010005,
+            "nama_kelurahan": "MERASA",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010006,
+            "nama_kelurahan": "MUARA LESAN",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010007,
+            "nama_kelurahan": "LESAN DAYAK",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010008,
+            "nama_kelurahan": "SIDO BANGEN",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010009,
+            "nama_kelurahan": "LONG BELIU",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010010,
+            "nama_kelurahan": "LONG DUHUNG",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010011,
+            "nama_kelurahan": "LONG KELUH",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010012,
+            "nama_kelurahan": "LONG PELAY",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010013,
+            "nama_kelurahan": "LONG LAMCIN",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405010014,
+            "nama_kelurahan": "LONG SULUI",
+            "kecamatan_id": "6405010"
+        },
+        {
+            "id": 6405020003,
+            "nama_kelurahan": "CAMPUR SARI",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020004,
+            "nama_kelurahan": "BUMI JAYA",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020006,
+            "nama_kelurahan": "TUNGGAL BUMI",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020007,
+            "nama_kelurahan": "DUMARING",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020008,
+            "nama_kelurahan": "SUKA MURYA",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020009,
+            "nama_kelurahan": "PURNA SARI JAYA",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020010,
+            "nama_kelurahan": "SUMBER MULIA",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020011,
+            "nama_kelurahan": "EKA SAPTA",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020012,
+            "nama_kelurahan": "TALISAYAN",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405020013,
+            "nama_kelurahan": "CAPUAK",
+            "kecamatan_id": "6405020"
+        },
+        {
+            "id": 6405021004,
+            "nama_kelurahan": "TABALAR MUARA",
+            "kecamatan_id": "6405021"
+        },
+        {
+            "id": 6405021005,
+            "nama_kelurahan": "HARAPAN MAJU",
+            "kecamatan_id": "6405021"
+        },
+        {
+            "id": 6405021006,
+            "nama_kelurahan": "TABALAR ULU",
+            "kecamatan_id": "6405021"
+        },
+        {
+            "id": 6405021007,
+            "nama_kelurahan": "TUBAAN",
+            "kecamatan_id": "6405021"
+        },
+        {
+            "id": 6405021008,
+            "nama_kelurahan": "SEMURUT",
+            "kecamatan_id": "6405021"
+        },
+        {
+            "id": 6405021009,
+            "nama_kelurahan": "RADAK/BUYUNG-BUYUNG",
+            "kecamatan_id": "6405021"
+        },
+        {
+            "id": 6405030001,
+            "nama_kelurahan": "TELUK SUMBANG",
+            "kecamatan_id": "6405030"
+        },
+        {
+            "id": 6405030002,
+            "nama_kelurahan": "BIDUK-BIDUK",
+            "kecamatan_id": "6405030"
+        },
+        {
+            "id": 6405030003,
+            "nama_kelurahan": "PANTAI HARAPAN",
+            "kecamatan_id": "6405030"
+        },
+        {
+            "id": 6405030004,
+            "nama_kelurahan": "TANJUNG PEREPAT",
+            "kecamatan_id": "6405030"
+        },
+        {
+            "id": 6405030005,
+            "nama_kelurahan": "GIRING-GIRING",
+            "kecamatan_id": "6405030"
+        },
+        {
+            "id": 6405030006,
+            "nama_kelurahan": "TELUK SULAIMAN",
+            "kecamatan_id": "6405030"
+        },
+        {
+            "id": 6405040001,
+            "nama_kelurahan": "PEGAT",
+            "kecamatan_id": "6405040"
+        },
+        {
+            "id": 6405040002,
+            "nama_kelurahan": "TELUK SEMANTING",
+            "kecamatan_id": "6405040"
+        },
+        {
+            "id": 6405040003,
+            "nama_kelurahan": "TANJUNG BATU",
+            "kecamatan_id": "6405040"
+        },
+        {
+            "id": 6405040004,
+            "nama_kelurahan": "PULAU DERAWAN",
+            "kecamatan_id": "6405040"
+        },
+        {
+            "id": 6405040005,
+            "nama_kelurahan": "KASAI",
+            "kecamatan_id": "6405040"
+        },
+        {
+            "id": 6405041001,
+            "nama_kelurahan": "MARATUA PAYUNG-PAYUNG",
+            "kecamatan_id": "6405041"
+        },
+        {
+            "id": 6405041002,
+            "nama_kelurahan": "MARATUA BOHESILIAN",
+            "kecamatan_id": "6405041"
+        },
+        {
+            "id": 6405041003,
+            "nama_kelurahan": "MARATUA TELUK ALULU",
+            "kecamatan_id": "6405041"
+        },
+        {
+            "id": 6405041004,
+            "nama_kelurahan": "MARATUA TELUK HARAPAN",
+            "kecamatan_id": "6405041"
+        },
+        {
+            "id": 6405050001,
+            "nama_kelurahan": "LONG LANUK",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050002,
+            "nama_kelurahan": "TUMBIT DAYAK",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050004,
+            "nama_kelurahan": "INARAN",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050005,
+            "nama_kelurahan": "PEGAT BUKUR",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050006,
+            "nama_kelurahan": "RANTAU PANJANG",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050007,
+            "nama_kelurahan": "SAMBALIUNG",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050008,
+            "nama_kelurahan": "BEBANIR",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050009,
+            "nama_kelurahan": "GURIMBANG",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050010,
+            "nama_kelurahan": "TANJUNG PERANGAT",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050011,
+            "nama_kelurahan": "SUKAN TENGAH",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050012,
+            "nama_kelurahan": "SUARAN",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050013,
+            "nama_kelurahan": "PESAYAN",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050014,
+            "nama_kelurahan": "PILANJAU",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405050015,
+            "nama_kelurahan": "BENA BARU",
+            "kecamatan_id": "6405050"
+        },
+        {
+            "id": 6405060003,
+            "nama_kelurahan": "SUNGAI BEDUNGUN",
+            "kecamatan_id": "6405060"
+        },
+        {
+            "id": 6405060004,
+            "nama_kelurahan": "TANJUNG REDEB",
+            "kecamatan_id": "6405060"
+        },
+        {
+            "id": 6405060005,
+            "nama_kelurahan": "BUGIS",
+            "kecamatan_id": "6405060"
+        },
+        {
+            "id": 6405060006,
+            "nama_kelurahan": "GUNUNG PANJANG",
+            "kecamatan_id": "6405060"
+        },
+        {
+            "id": 6405060007,
+            "nama_kelurahan": "KARANG AMBUN",
+            "kecamatan_id": "6405060"
+        },
+        {
+            "id": 6405060008,
+            "nama_kelurahan": "GAYAM",
+            "kecamatan_id": "6405060"
+        },
+        {
+            "id": 6405070004,
+            "nama_kelurahan": "TASUK",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070005,
+            "nama_kelurahan": "BIRANG",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070006,
+            "nama_kelurahan": "GUNUNG TABUR",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070007,
+            "nama_kelurahan": "MALUANG",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070008,
+            "nama_kelurahan": "SAMBURAKAT",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070009,
+            "nama_kelurahan": "SAMBAKUNGAN",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070010,
+            "nama_kelurahan": "MELATI JAYA",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070011,
+            "nama_kelurahan": "MERANCANG ULU",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070012,
+            "nama_kelurahan": "PULAU BESING",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070013,
+            "nama_kelurahan": "MERANCANG ILIR",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405070015,
+            "nama_kelurahan": "BATU-BATU",
+            "kecamatan_id": "6405070"
+        },
+        {
+            "id": 6405080001,
+            "nama_kelurahan": "PUNAN MAHKAM",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080002,
+            "nama_kelurahan": "LONG LAAY",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080003,
+            "nama_kelurahan": "PUNAN SEGAH",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080004,
+            "nama_kelurahan": "LONG AYAP",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080005,
+            "nama_kelurahan": "LONG AYAN",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080006,
+            "nama_kelurahan": "PUNAN MALINAU",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080007,
+            "nama_kelurahan": "GUNUNG SARI",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080008,
+            "nama_kelurahan": "HARAPAN JAYA",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080009,
+            "nama_kelurahan": "BUKIT MAKMUR",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080010,
+            "nama_kelurahan": "PANDAN SARI",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080011,
+            "nama_kelurahan": "TEPIAN BUAH",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080012,
+            "nama_kelurahan": "SIDUUNG INDAH",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405080013,
+            "nama_kelurahan": "BATU RAJANG",
+            "kecamatan_id": "6405080"
+        },
+        {
+            "id": 6405090001,
+            "nama_kelurahan": "TELUK BAYUR",
+            "kecamatan_id": "6405090"
+        },
+        {
+            "id": 6405090002,
+            "nama_kelurahan": "RINDING",
+            "kecamatan_id": "6405090"
+        },
+        {
+            "id": 6405090003,
+            "nama_kelurahan": "LABANAN MAKARTI",
+            "kecamatan_id": "6405090"
+        },
+        {
+            "id": 6405090004,
+            "nama_kelurahan": "LABANAN MAKMUR",
+            "kecamatan_id": "6405090"
+        },
+        {
+            "id": 6405090005,
+            "nama_kelurahan": "LABANAN JAYA",
+            "kecamatan_id": "6405090"
+        },
+        {
+            "id": 6405090006,
+            "nama_kelurahan": "TUMBIT MELAYU",
+            "kecamatan_id": "6405090"
+        },
+        {
+            "id": 6405100001,
+            "nama_kelurahan": "KAYU INDAH",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405100002,
+            "nama_kelurahan": "SUMBER AGUNG",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405100003,
+            "nama_kelurahan": "TEMBUDAN",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405100004,
+            "nama_kelurahan": "BATU PUTIH",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405100005,
+            "nama_kelurahan": "LOBANG KELATAK",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405100006,
+            "nama_kelurahan": "AMPEN MEDANG",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405100007,
+            "nama_kelurahan": "BALI KUKUP",
+            "kecamatan_id": "6405100"
+        },
+        {
+            "id": 6405110001,
+            "nama_kelurahan": "BIATAN BAPINANG",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110002,
+            "nama_kelurahan": "BIATAN BARU",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110003,
+            "nama_kelurahan": "BUKIT MAKMUR JAYA",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110004,
+            "nama_kelurahan": "MANUNGGAL JAYA",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110005,
+            "nama_kelurahan": "BIATAN LEMPAKE",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110006,
+            "nama_kelurahan": "BIATAN ULU",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110007,
+            "nama_kelurahan": "KARANGAN",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6405110008,
+            "nama_kelurahan": "BIATAN ILIR",
+            "kecamatan_id": "6405110"
+        },
+        {
+            "id": 6409010001,
+            "nama_kelurahan": "GUNUNG MAKMUR",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010002,
+            "nama_kelurahan": "GUNUNG INTAN",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010003,
+            "nama_kelurahan": "SUMBER SARI",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010004,
+            "nama_kelurahan": "SRI RAHARJA",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010005,
+            "nama_kelurahan": "RAWA MULIA",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010006,
+            "nama_kelurahan": "SEBAKUNG JAYA",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010007,
+            "nama_kelurahan": "BABULU LAUT",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010008,
+            "nama_kelurahan": "BABULU DARAT",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010009,
+            "nama_kelurahan": "LABANGKA",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010010,
+            "nama_kelurahan": "RINTIK",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010011,
+            "nama_kelurahan": "GUNUNG MULIA",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409010012,
+            "nama_kelurahan": "LABANGKA BARAT",
+            "kecamatan_id": "6409010"
+        },
+        {
+            "id": 6409020001,
+            "nama_kelurahan": "API API",
+            "kecamatan_id": "6409020"
+        },
+        {
+            "id": 6409020002,
+            "nama_kelurahan": "SESULU",
+            "kecamatan_id": "6409020"
+        },
+        {
+            "id": 6409020003,
+            "nama_kelurahan": "WARU",
+            "kecamatan_id": "6409020"
+        },
+        {
+            "id": 6409020004,
+            "nama_kelurahan": "BANGUN MULYA",
+            "kecamatan_id": "6409020"
+        },
+        {
+            "id": 6409030001,
+            "nama_kelurahan": "TANJUNG TENGAH",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030002,
+            "nama_kelurahan": "SALOLOANG",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030003,
+            "nama_kelurahan": "PETUNG",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030004,
+            "nama_kelurahan": "GIRI MUKTI",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030005,
+            "nama_kelurahan": "LAWE LAWE",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030006,
+            "nama_kelurahan": "PEJALA",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030007,
+            "nama_kelurahan": "KAMPUNG BARU",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030008,
+            "nama_kelurahan": "SESUMPU",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030009,
+            "nama_kelurahan": "SUNGAI PARIT",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030010,
+            "nama_kelurahan": "NIPAH NIPAH",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030011,
+            "nama_kelurahan": "NENANG",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030012,
+            "nama_kelurahan": "GUNUNG SETELENG",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030013,
+            "nama_kelurahan": "PENAJAM",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030014,
+            "nama_kelurahan": "BULU MINUNG",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030015,
+            "nama_kelurahan": "SOTEK",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030016,
+            "nama_kelurahan": "SEPAN",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030017,
+            "nama_kelurahan": "RIKO",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030018,
+            "nama_kelurahan": "PANTAI LANGO",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030019,
+            "nama_kelurahan": "GERSIK",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030020,
+            "nama_kelurahan": "JENEBORA",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030021,
+            "nama_kelurahan": "BUKIT SUBUR",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030022,
+            "nama_kelurahan": "SIDOREJO",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409030023,
+            "nama_kelurahan": "GIRIPURWA",
+            "kecamatan_id": "6409030"
+        },
+        {
+            "id": 6409040001,
+            "nama_kelurahan": "MARIDAN",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040002,
+            "nama_kelurahan": "MENTAWIR",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040003,
+            "nama_kelurahan": "PEMALUAN",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040004,
+            "nama_kelurahan": "BUMI HARAPAN",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040005,
+            "nama_kelurahan": "WONOSARI",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040006,
+            "nama_kelurahan": "SEMOI DUA",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040007,
+            "nama_kelurahan": "ARGO MULYO",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040008,
+            "nama_kelurahan": "SUKO MULYO",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040009,
+            "nama_kelurahan": "TENGIN BARU",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040010,
+            "nama_kelurahan": "SUKARAJA",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040011,
+            "nama_kelurahan": "BUKIT RAYA",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040012,
+            "nama_kelurahan": "SEPAKU",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040013,
+            "nama_kelurahan": "KARANG JINAWI",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040014,
+            "nama_kelurahan": "TELEMOW",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6409040015,
+            "nama_kelurahan": "BINUANG",
+            "kecamatan_id": "6409040"
+        },
+        {
+            "id": 6411010001,
+            "nama_kelurahan": "NYARIBUNGAN",
+            "kecamatan_id": "6411010"
+        },
+        {
+            "id": 6411010002,
+            "nama_kelurahan": "LONG GELAWANG",
+            "kecamatan_id": "6411010"
+        },
+        {
+            "id": 6411010003,
+            "nama_kelurahan": "DANUM PAROI",
+            "kecamatan_id": "6411010"
+        },
+        {
+            "id": 6411010004,
+            "nama_kelurahan": "MUARA RATAH",
+            "kecamatan_id": "6411010"
+        },
+        {
+            "id": 6411010005,
+            "nama_kelurahan": "LAHAM",
+            "kecamatan_id": "6411010"
+        },
+        {
+            "id": 6411020001,
+            "nama_kelurahan": "LUTAN",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020002,
+            "nama_kelurahan": "MEMAHAK TEBOQ",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020003,
+            "nama_kelurahan": "SIRAU",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020004,
+            "nama_kelurahan": "MATA LIBAQ",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020005,
+            "nama_kelurahan": "DATAH BILANG ILIR",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020006,
+            "nama_kelurahan": "DATAH BILANG ULU",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020007,
+            "nama_kelurahan": "DATAH BILANG BARU",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020008,
+            "nama_kelurahan": "LONG HUBUNG",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020009,
+            "nama_kelurahan": "WANA PARIQ",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020010,
+            "nama_kelurahan": "TRI PARIQ MAKMUR",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411020011,
+            "nama_kelurahan": "LONG HUBUNG ULU",
+            "kecamatan_id": "6411020"
+        },
+        {
+            "id": 6411030001,
+            "nama_kelurahan": "LONG HURAI",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030002,
+            "nama_kelurahan": "RUKUN DAMAI",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030003,
+            "nama_kelurahan": "LONG MERAH",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030004,
+            "nama_kelurahan": "MAMAHAK BESAR",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030005,
+            "nama_kelurahan": "MAMAHAK ULU",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030006,
+            "nama_kelurahan": "LONG MELAHAM",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030007,
+            "nama_kelurahan": "UJOH BILANG",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030008,
+            "nama_kelurahan": "BATU MAJANG",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030009,
+            "nama_kelurahan": "BATOQ KELO",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030010,
+            "nama_kelurahan": "LONG BAGUN ULU",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411030011,
+            "nama_kelurahan": "LONG BAGUN ILIR",
+            "kecamatan_id": "6411030"
+        },
+        {
+            "id": 6411040001,
+            "nama_kelurahan": "DELANG KEROHONG",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040002,
+            "nama_kelurahan": "LONG LUNUK BARU",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040003,
+            "nama_kelurahan": "LONG LUNUK",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040004,
+            "nama_kelurahan": "NAHA ARUQ",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040005,
+            "nama_kelurahan": "LONG PAHANGAI DUA",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040006,
+            "nama_kelurahan": "LONG TUYOQ",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040007,
+            "nama_kelurahan": "LIU MULANG",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040008,
+            "nama_kelurahan": "LONG PAHANGAI SATU",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040009,
+            "nama_kelurahan": "DATAH NAHA",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040010,
+            "nama_kelurahan": "LONG ISUN",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040011,
+            "nama_kelurahan": "LIRUNG UBING",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040012,
+            "nama_kelurahan": "LONG PAKAQ",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411040013,
+            "nama_kelurahan": "LONG PAKAQ BARU",
+            "kecamatan_id": "6411040"
+        },
+        {
+            "id": 6411050001,
+            "nama_kelurahan": "NAHA TIFAB",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050002,
+            "nama_kelurahan": "NOHA SILAT",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050003,
+            "nama_kelurahan": "LONG PENANEH DUA",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050004,
+            "nama_kelurahan": "TIONG OHANG",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050005,
+            "nama_kelurahan": "NAHA BUAN",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050006,
+            "nama_kelurahan": "TIONG BU'U",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050007,
+            "nama_kelurahan": "LONG PENANEH SATU",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050008,
+            "nama_kelurahan": "LONG PENANEH TIGA",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050009,
+            "nama_kelurahan": "LONG KERIOK",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6411050010,
+            "nama_kelurahan": "LONG APARI",
+            "kecamatan_id": "6411050"
+        },
+        {
+            "id": 6471010006,
+            "nama_kelurahan": "GUNUNG BAHAGIA",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471010007,
+            "nama_kelurahan": "SEPINGGAN",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471010008,
+            "nama_kelurahan": "DAMAI BARU",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471010009,
+            "nama_kelurahan": "DAMAI BAHAGIA",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471010010,
+            "nama_kelurahan": "SUNGAI NANGKA",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471010011,
+            "nama_kelurahan": "SEPINGGAN RAYA",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471010012,
+            "nama_kelurahan": "SEPINGGAN BARU",
+            "kecamatan_id": "6471010"
+        },
+        {
+            "id": 6471011001,
+            "nama_kelurahan": "PRAPATAN",
+            "kecamatan_id": "6471011"
+        },
+        {
+            "id": 6471011002,
+            "nama_kelurahan": "TELAGA SARI",
+            "kecamatan_id": "6471011"
+        },
+        {
+            "id": 6471011003,
+            "nama_kelurahan": "KLANDASAN ULU",
+            "kecamatan_id": "6471011"
+        },
+        {
+            "id": 6471011004,
+            "nama_kelurahan": "KLANDASAN ILIR",
+            "kecamatan_id": "6471011"
+        },
+        {
+            "id": 6471011005,
+            "nama_kelurahan": "DAMAI",
+            "kecamatan_id": "6471011"
+        },
+        {
+            "id": 6471020001,
+            "nama_kelurahan": "MANGGAR",
+            "kecamatan_id": "6471020"
+        },
+        {
+            "id": 6471020002,
+            "nama_kelurahan": "MANGGAR BARU",
+            "kecamatan_id": "6471020"
+        },
+        {
+            "id": 6471020003,
+            "nama_kelurahan": "LEMARU",
+            "kecamatan_id": "6471020"
+        },
+        {
+            "id": 6471020004,
+            "nama_kelurahan": "TERITIP",
+            "kecamatan_id": "6471020"
+        },
+        {
+            "id": 6471030001,
+            "nama_kelurahan": "MUARA RAPAK",
+            "kecamatan_id": "6471030"
+        },
+        {
+            "id": 6471030002,
+            "nama_kelurahan": "GUNUNG SAMARINDA",
+            "kecamatan_id": "6471030"
+        },
+        {
+            "id": 6471030003,
+            "nama_kelurahan": "BATU AMPAR",
+            "kecamatan_id": "6471030"
+        },
+        {
+            "id": 6471030004,
+            "nama_kelurahan": "KARANG JOANG",
+            "kecamatan_id": "6471030"
+        },
+        {
+            "id": 6471030005,
+            "nama_kelurahan": "GUNUNG SAMARINDA BARU",
+            "kecamatan_id": "6471030"
+        },
+        {
+            "id": 6471030006,
+            "nama_kelurahan": "GRAHA INDAH",
+            "kecamatan_id": "6471030"
+        },
+        {
+            "id": 6471040001,
+            "nama_kelurahan": "GUNUNG SARI ILIR",
+            "kecamatan_id": "6471040"
+        },
+        {
+            "id": 6471040002,
+            "nama_kelurahan": "GUNUNG SARI ULU",
+            "kecamatan_id": "6471040"
+        },
+        {
+            "id": 6471040003,
+            "nama_kelurahan": "MEKAR SARI",
+            "kecamatan_id": "6471040"
+        },
+        {
+            "id": 6471040004,
+            "nama_kelurahan": "KARANG REJO",
+            "kecamatan_id": "6471040"
+        },
+        {
+            "id": 6471040005,
+            "nama_kelurahan": "SUMBER REJO",
+            "kecamatan_id": "6471040"
+        },
+        {
+            "id": 6471040006,
+            "nama_kelurahan": "KARANG JATI",
+            "kecamatan_id": "6471040"
+        },
+        {
+            "id": 6471050001,
+            "nama_kelurahan": "BARU TENGAH",
+            "kecamatan_id": "6471050"
+        },
+        {
+            "id": 6471050002,
+            "nama_kelurahan": "MARGA SARI",
+            "kecamatan_id": "6471050"
+        },
+        {
+            "id": 6471050003,
+            "nama_kelurahan": "BARU ILIR",
+            "kecamatan_id": "6471050"
+        },
+        {
+            "id": 6471050004,
+            "nama_kelurahan": "MARGO MULYO",
+            "kecamatan_id": "6471050"
+        },
+        {
+            "id": 6471050005,
+            "nama_kelurahan": "BARU ULU",
+            "kecamatan_id": "6471050"
+        },
+        {
+            "id": 6471050006,
+            "nama_kelurahan": "KARIANGAU",
+            "kecamatan_id": "6471050"
+        },
+        {
+            "id": 6472010001,
+            "nama_kelurahan": "SIMPANG PASIR",
+            "kecamatan_id": "6472010"
+        },
+        {
+            "id": 6472010002,
+            "nama_kelurahan": "HANDIL BAKTI",
+            "kecamatan_id": "6472010"
+        },
+        {
+            "id": 6472010003,
+            "nama_kelurahan": "BANTUAS",
+            "kecamatan_id": "6472010"
+        },
+        {
+            "id": 6472010004,
+            "nama_kelurahan": "BUKUAN",
+            "kecamatan_id": "6472010"
+        },
+        {
+            "id": 6472010005,
+            "nama_kelurahan": "RAWA MAKMUR",
+            "kecamatan_id": "6472010"
+        },
+        {
+            "id": 6472020006,
+            "nama_kelurahan": "SELILI",
+            "kecamatan_id": "6472020"
+        },
+        {
+            "id": 6472020007,
+            "nama_kelurahan": "SUNGAI DAMA",
+            "kecamatan_id": "6472020"
+        },
+        {
+            "id": 6472020008,
+            "nama_kelurahan": "SIDODAMAI",
+            "kecamatan_id": "6472020"
+        },
+        {
+            "id": 6472020009,
+            "nama_kelurahan": "SIDOMULYO",
+            "kecamatan_id": "6472020"
+        },
+        {
+            "id": 6472020014,
+            "nama_kelurahan": "PELITA",
+            "kecamatan_id": "6472020"
+        },
+        {
+            "id": 6472021001,
+            "nama_kelurahan": "BUGIS",
+            "kecamatan_id": "6472021"
+        },
+        {
+            "id": 6472021002,
+            "nama_kelurahan": "PASAR PAGI",
+            "kecamatan_id": "6472021"
+        },
+        {
+            "id": 6472021003,
+            "nama_kelurahan": "PELABUHAN",
+            "kecamatan_id": "6472021"
+        },
+        {
+            "id": 6472021004,
+            "nama_kelurahan": "SUNGAI PINANG LUAR",
+            "kecamatan_id": "6472021"
+        },
+        {
+            "id": 6472021005,
+            "nama_kelurahan": "KARANG MUMUS",
+            "kecamatan_id": "6472021"
+        },
+        {
+            "id": 6472022001,
+            "nama_kelurahan": "PULAU ATAS",
+            "kecamatan_id": "6472022"
+        },
+        {
+            "id": 6472022002,
+            "nama_kelurahan": "SINDANG SARI",
+            "kecamatan_id": "6472022"
+        },
+        {
+            "id": 6472022003,
+            "nama_kelurahan": "MAKROMAN",
+            "kecamatan_id": "6472022"
+        },
+        {
+            "id": 6472022004,
+            "nama_kelurahan": "SAMBUTAN",
+            "kecamatan_id": "6472022"
+        },
+        {
+            "id": 6472022005,
+            "nama_kelurahan": "SUNGAI KAPIH",
+            "kecamatan_id": "6472022"
+        },
+        {
+            "id": 6472030001,
+            "nama_kelurahan": "MESJID",
+            "kecamatan_id": "6472030"
+        },
+        {
+            "id": 6472030002,
+            "nama_kelurahan": "BAQA",
+            "kecamatan_id": "6472030"
+        },
+        {
+            "id": 6472030005,
+            "nama_kelurahan": "SUNGAI KELEDANG",
+            "kecamatan_id": "6472030"
+        },
+        {
+            "id": 6472030006,
+            "nama_kelurahan": "MANGKUPALAS",
+            "kecamatan_id": "6472030"
+        },
+        {
+            "id": 6472030007,
+            "nama_kelurahan": "TENUN SAMARINDA",
+            "kecamatan_id": "6472030"
+        },
+        {
+            "id": 6472030008,
+            "nama_kelurahan": "GUNUNG PANJANG",
+            "kecamatan_id": "6472030"
+        },
+        {
+            "id": 6472031001,
+            "nama_kelurahan": "SENGKOTEK",
+            "kecamatan_id": "6472031"
+        },
+        {
+            "id": 6472031002,
+            "nama_kelurahan": "SIMPANG TIGA",
+            "kecamatan_id": "6472031"
+        },
+        {
+            "id": 6472031003,
+            "nama_kelurahan": "TANI AMAN",
+            "kecamatan_id": "6472031"
+        },
+        {
+            "id": 6472031004,
+            "nama_kelurahan": "HARAPAN BARU",
+            "kecamatan_id": "6472031"
+        },
+        {
+            "id": 6472031005,
+            "nama_kelurahan": "RAPAK DALAM",
+            "kecamatan_id": "6472031"
+        },
+        {
+            "id": 6472040001,
+            "nama_kelurahan": "LOA BUAH",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472040002,
+            "nama_kelurahan": "LOA BAKUNG",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472040003,
+            "nama_kelurahan": "KARANG ASAM ULU",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472040004,
+            "nama_kelurahan": "TELUK LERONG ULU",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472040005,
+            "nama_kelurahan": "LOK BAHU",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472040006,
+            "nama_kelurahan": "KARANG ASAM ILIR",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472040007,
+            "nama_kelurahan": "KARANG ANYAR",
+            "kecamatan_id": "6472040"
+        },
+        {
+            "id": 6472050001,
+            "nama_kelurahan": "TELUK LERONG ILIR",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050002,
+            "nama_kelurahan": "JAWA",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050004,
+            "nama_kelurahan": "DADI MULYA",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050005,
+            "nama_kelurahan": "SIDODADI",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050006,
+            "nama_kelurahan": "GUNUNG KELUA",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050007,
+            "nama_kelurahan": "AIR HITAM",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050008,
+            "nama_kelurahan": "AIR PUTIH",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472050009,
+            "nama_kelurahan": "BUKIT PINANG",
+            "kecamatan_id": "6472050"
+        },
+        {
+            "id": 6472060004,
+            "nama_kelurahan": "LEMPAKE",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060005,
+            "nama_kelurahan": "SEMPAJA SELATAN",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060006,
+            "nama_kelurahan": "SUNGAI SIRING",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060010,
+            "nama_kelurahan": "TANAH MERAH",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060011,
+            "nama_kelurahan": "SEMPAJA UTARA",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060012,
+            "nama_kelurahan": "SEMPAJA TIMUR",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060013,
+            "nama_kelurahan": "SEMPAJA BARAT",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472060014,
+            "nama_kelurahan": "BUDAYA PAMPANG",
+            "kecamatan_id": "6472060"
+        },
+        {
+            "id": 6472061001,
+            "nama_kelurahan": "TEMINDUNG PERMAI",
+            "kecamatan_id": "6472061"
+        },
+        {
+            "id": 6472061002,
+            "nama_kelurahan": "BANDARA",
+            "kecamatan_id": "6472061"
+        },
+        {
+            "id": 6472061003,
+            "nama_kelurahan": "SUNGAI PINANG DALAM",
+            "kecamatan_id": "6472061"
+        },
+        {
+            "id": 6472061004,
+            "nama_kelurahan": "MUGIREJO",
+            "kecamatan_id": "6472061"
+        },
+        {
+            "id": 6472061005,
+            "nama_kelurahan": "GUNUNG LINGAI",
+            "kecamatan_id": "6472061"
+        },
+        {
+            "id": 6474010001,
+            "nama_kelurahan": "BONTANG LESTARI",
+            "kecamatan_id": "6474010"
+        },
+        {
+            "id": 6474010002,
+            "nama_kelurahan": "SATIMPO",
+            "kecamatan_id": "6474010"
+        },
+        {
+            "id": 6474010003,
+            "nama_kelurahan": "BEREBAS PANTAI",
+            "kecamatan_id": "6474010"
+        },
+        {
+            "id": 6474010004,
+            "nama_kelurahan": "BEREBAS TENGAH",
+            "kecamatan_id": "6474010"
+        },
+        {
+            "id": 6474010005,
+            "nama_kelurahan": "TANJUNG LAUT",
+            "kecamatan_id": "6474010"
+        },
+        {
+            "id": 6474010006,
+            "nama_kelurahan": "TANJUNG LAUT INDAH",
+            "kecamatan_id": "6474010"
+        },
+        {
+            "id": 6474020001,
+            "nama_kelurahan": "BONTANG KUALA",
+            "kecamatan_id": "6474020"
+        },
+        {
+            "id": 6474020002,
+            "nama_kelurahan": "BONTANG BARU",
+            "kecamatan_id": "6474020"
+        },
+        {
+            "id": 6474020003,
+            "nama_kelurahan": "API-API",
+            "kecamatan_id": "6474020"
+        },
+        {
+            "id": 6474020004,
+            "nama_kelurahan": "GUNUNG LAI",
+            "kecamatan_id": "6474020"
+        },
+        {
+            "id": 6474020005,
+            "nama_kelurahan": "LOK TUAN",
+            "kecamatan_id": "6474020"
+        },
+        {
+            "id": 6474020006,
+            "nama_kelurahan": "GUNTUNG",
+            "kecamatan_id": "6474020"
+        },
+        {
+            "id": 6474030001,
+            "nama_kelurahan": "KANAAN",
+            "kecamatan_id": "6474030"
+        },
+        {
+            "id": 6474030002,
+            "nama_kelurahan": "GUNUNG TELIHAN",
+            "kecamatan_id": "6474030"
+        },
+        {
+            "id": 6474030003,
+            "nama_kelurahan": "BELIMBING",
+            "kecamatan_id": "6474030"
+        },
+        {
+            "id": 6404010009,
+            "nama_kelurahan": "TELUK BARU",
+            "kecamatan_id": "6404010"
+        },
+        {
+            "id": 6404021008,
+            "nama_kelurahan": "KERNYANYAN",
+            "kecamatan_id": "6404021"
+        },
+        {
+            "id": 6404031007,
+            "nama_kelurahan": "BATU TIMBAU ULU",
+            "kecamatan_id": "6404031"
+        },
+        {
+            "id": 6404044009,
+            "nama_kelurahan": "MASALAP RAYA",
+            "kecamatan_id": "6404044"
+        },
+        {
+            "id": 6404052008,
+            "nama_kelurahan": "MANUBAR DALAM",
+            "kecamatan_id": "6404052"
+        },
+        {
+            "id": 6404052009,
+            "nama_kelurahan": "SUSUK TENGAH",
+            "kecamatan_id": "6404052"
+        }
+    ]
+}
