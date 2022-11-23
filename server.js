@@ -112,15 +112,49 @@ app.get('/kabupaten', exp_jwt, (req, res) => {
     res.send(JSON.parse(kab));
 })
 
+app.get('/kabupaten/:kabupaten_id', exp_jwt, (req, res) => {
+    const kab = readFileSync('./kabupaten.json');
+    data = JSON.parse(kab);
+    const arr = data['kabupaten'];  
+    const result = arr.filter(el => {
+     return el['id'] === parseInt(req.params.kabupaten_id);
+    });
+    res.send(result[0])    
+  }
+);
+
 app.get('/kecamatan', exp_jwt, (req, res) => {
     const kec = readFileSync('./kecamatan.json');
     res.send(JSON.parse(kec));
 })
 
+app.get('/kecamatan/:kecamatan_id', exp_jwt, (req, res) => {
+    const kec = readFileSync('./kecamatan.json');
+    data = JSON.parse(kec);
+    const arr = data['kecamatan'];  
+    const result = arr.filter(el => {
+     return el['id'] === parseInt(req.params.kecamatan_id);
+    });
+    res.send(result[0])    
+  }
+);
+
+
 app.get('/kelurahan', exp_jwt, (req, res) => {
     const kel = readFileSync('./kelurahan.json');
     res.send(JSON.parse(kel));
 })
+
+app.get('/kelurahan/:kelurahan_id', exp_jwt, (req, res) => {
+    const kel = readFileSync('./kelurahan.json');
+    data = JSON.parse(kel);
+    const arr = data['kelurahan'];  
+    const result = arr.filter(el => {
+     return el['id'] === parseInt(req.params.kelurahan_id);
+    });
+    res.send(result[0])    
+  }
+);
 
 app.get('/', exp_jwt /* Using the express jwt MW here */, (req, res) => {
     res.send({"messages":'You are authenticated'}); //Sending some response when authenticated
