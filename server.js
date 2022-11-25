@@ -177,7 +177,7 @@ app.use(function (err, req, res, next) {
 });
 
 // Starting the app on PORT 3000
-const PORT = 3000;
+const PORT = 80;
 app.listen(PORT, () => {
     // eslint-disable-next-line
     console.log(`Magic happens on port ${PORT}`);
