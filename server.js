@@ -95,7 +95,7 @@ app.post('/api/auth', (req, res) => {
     }
 });
 app.post('/', (req, res) => {
-    res.send({"messages":'Fake data Only (FenDI)'});
+    res.send({"messages":'Fake data Only (Fendi)'});
 })
 app.get('/survei', exp_jwt,(req, res) => {
   const survei = readFileSync('./survei.json');
@@ -180,7 +180,7 @@ app.use(function (err, req, res, next) {
 });
 
 // Starting the app on PORT 3000
-const PORT = 443;
+const PORT = 3000;
 app.listen(PORT, () => {
     // eslint-disable-next-line
     console.log(`Magic happens on port ${PORT}`);
