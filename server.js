@@ -161,8 +161,8 @@ app.get('/kelurahan/:kelurahan_id', exp_jwt, (req, res) => {
   }
 );
 
-app.get('/', exp_jwt /* Using the express jwt MW here */, (req, res) => {
-    res.send({"messages":'You are authenticated'}); //Sending some response when authenticated
+app.get('/', (req, res) => {
+    res.send({"messages":'for mockup API Only'}); //Sending some response when authenticated
 });
 
 // Error handling 
