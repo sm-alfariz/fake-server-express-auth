@@ -94,6 +94,9 @@ app.post('/api/auth', (req, res) => {
         }
     }
 });
+app.post('/', (req, res) => {
+    res.send({"messages":'Fake data Only (FenDI)'});
+})
 app.get('/survei', exp_jwt,(req, res) => {
   const survei = readFileSync('./survei.json');
   res.send(JSON.parse(survei));
