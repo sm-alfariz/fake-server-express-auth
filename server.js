@@ -48,8 +48,12 @@ let users = [
       "no_kk": "6402130506120001",
       "no_nik": "6402130806830009",
       "age": 99,
+      "prov": "Kalimantan Timur",
+      "prov_id": "64",
+      "kab_id": "6403",
       "kab": "Kutai Kartanegara",
       "kec": "Samboja",
+      "kec_id": "6403010",
       "kel": "Pemedas",
       "rt_no": 1,
       "tps_no": 1
@@ -78,8 +82,12 @@ app.post('/api/auth', (req, res) => {
                     "no_kk": user.no_kk,
                     "no_nik": user.no_nik,                    
                     "age": user.age,
+                    "prov": user.prov,
+                    "prov_id": user.prov_id,
+                    "kab_id": user.kab_id,
                     "kab": user.kab,
                     "kec": user.kec,
+                    "kec_id": user.kec_id,
                     "kel": user.kel,
                     "rt_no": user.rt_no,
                     "tps_no": user.tps_no
@@ -158,8 +166,22 @@ app.get('/kelurahan/:kelurahan_id', exp_jwt, (req, res) => {
      return el['id'] === parseInt(req.params.kelurahan_id);
     });
     res.send(result[0])    
-  }
-);
+});
+
+app.get('/dtdc', exp_jwt, (req, res) => {
+    const dtdc = readFileSync('./dtdc.json');
+    res.send(JSON.parse(dtdc));
+})
+
+app.get('/dtdc/:dtdc_id', exp_jwt, (req, res) => {
+    const dtdc = readFileSync('./dtdc.json');
+    data = JSON.parse(dtdc);
+    const arr = data['dtdc'];  
+    const result = arr.filter(el => {
+     return el['id'] === parseInt(req.params.dtdc_id);
+    });
+    res.send(result[0]) 
+})
 
 app.get('/', (req, res) => {
     res.send({"messages":'for mockup API Only'}); //Sending some response when authenticated

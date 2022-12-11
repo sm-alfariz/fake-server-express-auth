@@ -1,0 +1,50 @@
+{
+	"dtdc": [
+		{
+			"id": 99,
+			"dtdc_id": 1,
+			"tgl": "2022-01-02",
+			"kelurahan_id": "023238",
+			"kecamatan_id": "343827",
+			"kabupaten_id": "834782",
+			"provinsi_id": "82374832",
+			"tps_id": "23",
+			"rt_id": "232",
+			"latitude": "-1.0219217",
+			"longitude": "117.1161033",
+			"rt_no": "1",
+			"nama_lengkap": "Nama Lengkap",
+			"alamat": "S asdad asdsasd",
+			"nik": "3232322",
+			"no_kk": "2323432",
+			"no_hp": "12312312",
+			"jml_anggota": 23,
+			"personil_id": 12,
+			"filename": "https://via.placeholder.com/150.png/ffffff/000000?text=LOKASI%20DTDC",
+			"user_id": 132
+		},
+		{
+			"id": 101,
+			"dtdc_id": 1,
+			"tgl": "2022-01-09",
+			"kelurahan_id": "023238",
+			"kecamatan_id": "343827",
+			"kabupaten_id": "834782",
+			"provinsi_id": "82374832",
+			"tps_id": "23",
+			"rt_id": "232",
+			"latitude": "-0.3128433",
+			"longitude": "116.6660317",
+			"rt_no": "1",
+			"nama_lengkap": "Nama Lengkap",
+			"alamat": "S asdad asdsasd",
+			"nik": "3232322",
+			"no_kk": "2323432",
+			"no_hp": "12312312",
+			"jml_anggota": 23,
+			"personil_id": 12,
+			"filename": "https://via.placeholder.com/150.png/ffffff/000000?text=LOKASI%20DTDC",
+			"user_id": 132
+		}
+	]
+}
