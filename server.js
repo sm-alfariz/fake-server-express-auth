@@ -54,7 +54,7 @@ let users = [
       "kab": "Kutai Kartanegara",
       "kec": "Samboja",
       "kec_id": "6403010",
-      "kel": "Pemedas",
+      "kel": "Teluk Pemedas",
       "kel_id" : "6403010021",
       "rt_no": 1,
       "tps_no": 1
