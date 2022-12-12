@@ -55,6 +55,7 @@ let users = [
       "kec": "Samboja",
       "kec_id": "6403010",
       "kel": "Pemedas",
+      "kel_id" : "6403010021",
       "rt_no": 1,
       "tps_no": 1
     }
@@ -89,6 +90,7 @@ app.post('/api/auth', (req, res) => {
                     "kec": user.kec,
                     "kec_id": user.kec_id,
                     "kel": user.kel,
+                    "kel_id": user.kec_id,
                     "rt_no": user.rt_no,
                     "tps_no": user.tps_no
                 } 
