@@ -222,8 +222,8 @@ app.use(function (err, req, res, next) {
 //    res.send("recieved your request!");
 // });
 
-app.post('/upload', upload.single("foto"), function (req, res, next) {
-    //console.log(req.file, req.body)
+app.post('/upload', upload.single("file_attach"), function (req, res, next) {
+    console.log({"file" : req.file}, req.body)
     let resp = {
         "status": "success",
         "dtdc_trans_id": 264856,
