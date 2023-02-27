@@ -83,7 +83,7 @@ app.post('/api/auth', (req, res) => {
                 id: user.id, 
                 email: user.email 
             }, 'keyboard cat 4 ever',
-            { expiresIn: "1d" }); // Sigining the token
+            { expiresIn: "365d" }); // Sigining the token
 
             res.json({
                 accessToken: token,
