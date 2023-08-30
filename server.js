@@ -120,6 +120,10 @@ app.post('/api/auth', (req, res) => {
 app.post('/', (req, res) => {
     res.send({"messages":'Fake data Only (Fendi)'});
 })
+app.get('/population', (req, res) => {
+    const survei = readFileSync('./population.json');
+    res.send(JSON.parse(survei));
+})
 app.get('/survei', exp_jwt,(req, res) => {
   const survei = readFileSync('./survei.json');
   res.send(JSON.parse(survei));
@@ -233,7 +237,7 @@ app.post('/upload', upload.single("file_attach"), function (req, res, next) {
 });
 
 // Starting the app on PORT 3000
-const PORT = 3000;
+const PORT = 9000;
 app.listen(PORT, () => {
     // eslint-disable-next-line
     console.log(`Magic happens on port ${PORT}`);

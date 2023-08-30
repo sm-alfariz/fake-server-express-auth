@@ -1,0 +1,22 @@
+[
+  {
+    "country": "india",
+    "population": 300
+  },
+  {
+    "country": "indonesia",
+    "population": 120
+  },  
+  {
+    "country": "usa",
+    "population": 200
+  },
+  {
+    "country": "uk",
+    "population": 150
+  },
+  {
+    "country": "china",
+    "population": 400
+  }
+]
