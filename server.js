@@ -120,8 +120,16 @@ app.post('/api/auth', (req, res) => {
 app.post('/', (req, res) => {
     res.send({"messages":'Fake data Only (Fendi)'});
 })
-app.get('/population', (req, res) => {
+app.get('/population', exp_jwt, (req, res) => {
     const survei = readFileSync('./population.json');
+    res.send(JSON.parse(survei));
+})
+app.get('/identifikasi', exp_jwt, (req, res) => {
+    const survei = readFileSync('./identifikasi.json');
+    res.send(JSON.parse(survei));
+})
+app.get('/identifikasi', exp_jwt, (req, res) => {
+    const survei = readFileSync('./persuasif.json');
     res.send(JSON.parse(survei));
 })
 app.get('/survei', exp_jwt,(req, res) => {
