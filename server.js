@@ -128,7 +128,7 @@ app.get('/identifikasi', exp_jwt, (req, res) => {
     const survei = readFileSync('./identifikasi.json');
     res.send(JSON.parse(survei));
 })
-app.get('/identifikasi', exp_jwt, (req, res) => {
+app.get('/persuasif', exp_jwt, (req, res) => {
     const survei = readFileSync('./persuasif.json');
     res.send(JSON.parse(survei));
 })
